@@ -1,0 +1,289 @@
+/* ページ幅 */
+.gridContainer {
+	max-width: 880px;
+}
+
+.header-description.gridContainer {
+	max-width: 100%;
+	width: 100%;
+}
+
+.header-description.gridContainer .align-holder.center {
+	width: 100%;
+	margin: auto!important;
+}
+
+@media only screen and (min-width: 768px) {
+	.hero-title {
+		white-space: nowrap;
+		text-align: center;
+	}
+}
+
+@media only screen and (min-width: 1200px) {.gridContainer {
+    width: 60%;
+	}
+}
+
+@media only screen and (min-width: 1024px) {
+	.gridContainer {
+			width: 65%;
+	}
+}
+
+@media only screen and (min-width: 768px) {
+	.gridContainer {
+			width: 70%;
+	}	
+}
+
+/* 文字色・文字サイズ */
+*, h2, h3, h4, h5, h6 {
+	color: #3a414e;
+}
+
+h2, h3, h4, h5, h6 {
+	text-align: center;
+}
+
+h2 {
+	font-size: 32px;
+	padding-top: 1.5em;
+	padding-bottom: 1em;
+}
+
+p {
+	font-size: 13px;
+}
+
+li {
+	font-size: 13px;
+	text-align: left;
+}
+
+p:has(> img) {
+	text-align: center;
+}
+
+/* 画像サイズ */
+
+img {
+	min-width: 60%;
+}
+
+/* メンバー写真＋説明 */
+
+.wp-block-media-text {
+	width: 100%;
+	margin-bottom: 2em;
+}
+
+.wp-block-media-text {
+	grid-template-columns: 180px 1fr;
+}
+
+.wp-block-media-text.has-media-on-the-right {
+	grid-template-columns: 1fr 180px;
+}
+
+.wp-block-media-text img {
+	width: 180px;
+}
+
+.wp-block-media-text .wp-block-media-text__content {
+	padding: 0 0 0 2em;
+	height: 100%;
+	text-align: right;
+}
+
+.wp-block-media-text.has-media-on-the-right .wp-block-media-text__content {
+	padding: 0 2em 0 0;
+	height: 100%;
+	text-align: left;
+}
+
+.wp-block-media-text * {
+	text-align: right;
+}
+
+.wp-block-media-text.has-media-on-the-right * {
+		text-align: left;
+}
+
+/* 表 */
+
+/* mesmerize style.css TABLES */
+table,
+.wp-block-table table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  max-width: 100%;
+  width: 100%;
+  empty-cells: show;
+  font-size: 15px;
+  line-height: 24px;
+}
+
+table caption,
+.wp-block-table table caption {
+  text-align: left;
+  font-size: 0.875em;
+  font-weight: 500;
+  color: #676b72;
+}
+
+th,
+.wp-block-table th {
+  text-align: left;
+  font-weight: 700;
+  vertical-align: bottom;
+}
+
+td,
+.wp-block-table td {
+  vertical-align: top;
+	text-align: left;
+}
+
+tr.align-middle td,
+td.align-middle,
+.wp-block-table tr.align-middle td,
+.wp-block-table td.align-middle {
+  vertical-align: middle;
+}
+
+th,
+td,
+.wp-block-table th,
+.wp-block-table td {
+  padding: 1rem 1rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+  border-left: none;
+  border-right: none;
+}
+
+tr:first-child,
+tr:first-child,
+.wp-block-table tr:first-child,
+.wp-block-table tr:first-child,
+thead,
+thead,
+.wp-block-table thead,
+.wp-block-table thead {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+tr:first-child th,
+tr:first-child td,
+.wp-block-table tr:first-child th,
+.wp-block-table tr:first-child td,
+thead th,
+thead td,
+.wp-block-table thead th,
+.wp-block-table thead td {
+  border-top: 1px solid rgba(0, 0, 0, 0.15);
+	background: none;
+}
+
+tfoot th,
+tfoot td,
+.wp-block-table tfoot th,
+.wp-block-table tfoot td {
+  color: rgba(142, 157, 174, 0.15);
+}
+
+th:first-child,
+td:first-child,
+.wp-block-table th:first-child,
+.wp-block-table td:first-child {
+  padding-left: 0;
+	white-space: nowrap;
+	width: 0;
+}
+
+th:last-child,
+td:last-child,
+.wp-block-table th:last-child,
+.wp-block-table td:last-child {
+  padding-right: 0;
+}
+
+table.bordered td,
+table.bordered th,
+.post-item table td,
+.post-item table th,
+table.card[class*="bottom-border-"] td,
+table.card[class*="bottom-border-"] th,
+.wp-block-table table.bordered td,
+.wp-block-table table.bordered th,
+.wp-block-table .post-item table td,
+.wp-block-table .post-item table th,
+.wp-block-table table.card[class*="bottom-border-"] td,
+.wp-block-table table.card[class*="bottom-border-"] th {
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+table.striped tr:nth-child(odd) td,
+.wp-block-table table.striped tr:nth-child(odd) td {
+  background: #f8f8f8;
+}
+
+table.bordered td:first-child,
+table.bordered th:first-child,
+.post-item table td:first-child,
+.post-item table th:first-child,
+table.card[class*="bottom-border-"] td:first-child,
+table.card[class*="bottom-border-"] th:first-child,
+table.striped td:first-child,
+table.striped th:first-child,
+.wp-block-table table.bordered td:first-child,
+.wp-block-table table.bordered th:first-child,
+.wp-block-table .post-item table td:first-child,
+.wp-block-table .post-item table th:first-child,
+.wp-block-table table.card[class*="bottom-border-"] td:first-child,
+.wp-block-table table.card[class*="bottom-border-"] th:first-child,
+.wp-block-table table.striped td:first-child,
+.wp-block-table table.striped th:first-child {
+  padding-left: 1rem;
+}
+
+table.bordered td:last-child,
+table.bordered th:last-child,
+.post-item table td:last-child,
+.post-item table th:last-child,
+table.card[class*="bottom-border-"] td:last-child,
+table.card[class*="bottom-border-"] th:last-child,
+table.striped td:last-child,
+table.striped th:last-child,
+.wp-block-table table.bordered td:last-child,
+.wp-block-table table.bordered th:last-child,
+.wp-block-table .post-item table td:last-child,
+.wp-block-table .post-item table th:last-child,
+.wp-block-table table.card[class*="bottom-border-"] td:last-child,
+.wp-block-table table.card[class*="bottom-border-"] th:last-child,
+.wp-block-table table.striped td:last-child,
+.wp-block-table table.striped th:last-child {
+  padding-right: 1rem;
+}
+
+table.unstyled td,
+table.unstyled th,
+.wp-block-table table.unstyled td,
+.wp-block-table table.unstyled th {
+  border: none;
+  padding: 0;
+}
+
+.page {
+	overflow-x: hidden;
+}
+
+p, a, th, tr, td, table, thead {
+	max-width: 100%;
+	white-space: wrap;
+	box-sizing: border-box;
+}
+
+ol {
+	margin-left: 2.0em;
+}
