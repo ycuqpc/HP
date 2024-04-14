@@ -1,10 +1,12 @@
 # HP
 
-[トップページ](https://www-user.yokohama-cu.ac.jp/~tachi/)
+https://www-user.yokohama-cu.ac.jp/~tachi/
+
+## トップページ
 
 - [news.md](./news.md)
 
-[業績リスト](https://www-user.yokohama-cu.ac.jp/~tachi/research/)
+## 業績リスト
 
 - [publication.md](./publication.md)
 - [presentation.md](./presentation.md)
