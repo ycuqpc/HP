@@ -1,6 +1,12 @@
-# publication-list
+# HP
 
+https://www-user.yokohama-cu.ac.jp/~tachi/
+
+- [news.md](./news.md)
+
+https://www-user.yokohama-cu.ac.jp/~tachi/research/
+
+- [publication.md](./publication.md)
 - [presentation.md](./presentation.md)
 - [proceeding.md](./proceeding.md)
-- [publication.md](./publication.md)
 - [review.md](./review.md)
