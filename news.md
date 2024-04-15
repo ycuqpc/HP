@@ -1,5 +1,6 @@
 | DATE       | NEWS       |
 | :--------- | :--------- |
+| 2024.04.01 | D1の三澤さん、M1の足羽さん、B4の安藤君、勝田君、木内君、髙嶋君、田中君、中薗君、馬塲君、宮坂君、渡邊さんが研究室の新たなメンバーとして加わりました!! |
 | 2024.01.20 | YCUスクエアにて [8th International Workshop on Quantum Chemistry, 2023](https://ycuqpc.github.io/IWQC8th/) を開催します! |
 | 2024.01.19 | 理学系研究棟にて [8th Japan-Thai workshop on Theoretical and Computational Chemistry 2023](https://ycuqpc.github.io/JTTCC8th/) を開催します! |
 | 2024.01.16 | ホームページをリニューアルしました！旧HPは[こちら](https://www-user.yokohama-cu.ac.jp/~tachi/oldweb/4th/)からご覧いただけます。 |
