@@ -2,11 +2,11 @@
 
 256. Kazuki Tatenuma, Makito Takagi, Tomomi Shimazaki, and Masanori Tachikawa,
      "Structural H/D isotope effect in excess proton/deuteron in light/heavy water solvent by using path integral molecular dynamics simulation",
-     Bull. Chem. Soc. Jpn., in press (2023). DOI: [10.1093/bulcsj/uoad009](https://doi.org/10.1093/bulcsj/uoad009)
+     _Bull. Chem. Soc. Jpn._, in press (2023). DOI: [10.1093/bulcsj/uoad009](https://doi.org/10.1093/bulcsj/uoad009)
 
 255. Kazuaki Kuwahata, Shigekazu Ito, and Masanori Tachikawa,
      "A path integral molecular dynamics study on the muoniated xanthene-thione molecule",
-     J. Chem. Phys., 159, 104301 (8 pages) (2023). DOI: [10.1063/5.0159207](https://doi.org/10.1063/5.0159207)
+     _J. Chem. Phys._, **159**, 104301 (8 pages) (2023). DOI: [10.1063/5.0159207](https://doi.org/10.1063/5.0159207)
 
 254. Takumi Naito, Makito Takagi, Masanori Tachikawa, Koichi Yamashita, and Tomomi Shimazaki,
      "Theoretical Study of the Molecular Passivation Effect of Lewis Base/Acid on Lead-Free Tin Perovskite Surface Defects",
