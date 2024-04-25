@@ -286,21 +286,11 @@ Path integral molecular dynamics simulations for muoniated thioketone radicals�
 
 ## 2017年度
 
-### コンピュータ化学会2017春季年会（2017年6月）
-- 小野邦彰、北幸海、立川仁典（口頭発表）
-「ベンゼン誘導体への陽電子吸着と対消滅機構に関する理論的解析」
-
-### INTERNATIONAL CONFERENCE ON COMPUTATIONAL SCIENCE (ICCS2017), (Zürich, Switzerland, on 12-14 June, 2017)
-- Taro Udagawa, Kimichi Suzuki, and Masanori Tachikawa (Poster)
-“A multicomponent QM study of H2 dissociation on small aluminum cluster”
-
-### XIX International Workshop on Low-Energy Positron and Positronium Physics XX International Symposium on Electron-Molecule Collisions and Swarms (POSMOL2017), (Amaroo, Magnetic Island, Queensland, Australia, on 22-24 July, 2017)
-- Masanori Tachikawa (Poster)
-“First-principles study on the binding of a positron to polyatomic molecules”
-
-### 30th International Conference on Photonic Electronic and Atomic Collisions (ICPEAC30) (Cairns, Queensland, Australia, on 26 July - 2 August, 2017)
-- Yuki Oba, Tsutomu Kawatsu, and Masanori Tachikawa (Poster)
-“Path integral simulation on hyperfine coupling constants of muoniated and hydrogenated acetone radicals”
+### 日本コンピュータ化学会2017秋季年会（2017年10月）
+- 浦川海尋、山田裕里佳、北幸海、立川仁典（口頭発表）
+「First-Principles Study on the Binding of a Positron to Polyatomic Molecules」
+- 石井桐子、立川仁典、北幸海（口頭発表）
+「分子動力学法を用いたC60分子の気相結晶成長に対する温度効果の解析」
 
 ### 11th European Conference on Theoretical and Computational Chemistry (EucoTCC), (Barcelona, Spain, on 4-7 September, 2017)
 - Yuki Oba, Tsutomu Kawatsu, and Masanori Tachikawa (Poster)
@@ -324,11 +314,21 @@ Path integral molecular dynamics simulations for muoniated thioketone radicals�
 - 大場優生, 河津励, 立川仁典（口頭発表）
 「経路積分分子動力学法を用いたミューオニウム化合物の理論解析」
 
-### 日本コンピュータ化学会2017秋季年会（2017年10月）
-- 浦川海尋、山田裕里佳、北幸海、立川仁典（口頭発表）
-「First-Principles Study on the Binding of a Positron to Polyatomic Molecules」
-- 石井桐子、立川仁典、北幸海（口頭発表）
-「分子動力学法を用いたC60分子の気相結晶成長に対する温度効果の解析」
+### 30th International Conference on Photonic Electronic and Atomic Collisions (ICPEAC30) (Cairns, Queensland, Australia, on 26 July - 2 August, 2017)
+- Yuki Oba, Tsutomu Kawatsu, and Masanori Tachikawa (Poster)
+“Path integral simulation on hyperfine coupling constants of muoniated and hydrogenated acetone radicals”
+
+### XIX International Workshop on Low-Energy Positron and Positronium Physics XX International Symposium on Electron-Molecule Collisions and Swarms (POSMOL2017), (Amaroo, Magnetic Island, Queensland, Australia, on 22-24 July, 2017)
+- Masanori Tachikawa (Poster)
+“First-principles study on the binding of a positron to polyatomic molecules”
+
+### コンピュータ化学会2017春季年会（2017年6月）
+- 小野邦彰、北幸海、立川仁典（口頭発表）
+「ベンゼン誘導体への陽電子吸着と対消滅機構に関する理論的解析」
+
+### INTERNATIONAL CONFERENCE ON COMPUTATIONAL SCIENCE (ICCS2017), (Zürich, Switzerland, on 12-14 June, 2017)
+- Taro Udagawa, Kimichi Suzuki, and Masanori Tachikawa (Poster)
+“A multicomponent QM study of H2 dissociation on small aluminum cluster”
 
 ### ナノテク交流シンポジウム（2017年3月）
 - 小野邦彰、加藤智紀、渡邊佳晶、熊田大晃、土肥海人、桑畑和明（ポスター発表）
