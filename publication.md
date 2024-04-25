@@ -192,7 +192,7 @@
 
 210. Rathawat Daengngern, Osamu Kobayashi, Nawee Kungwan, Chanisorn Ngaojampa, and Masanori Tachikawa,
      "Nuclear quantum and H/D isotope effects on three-centered bonding diborane: Path integral molecular dynamics simulations",
-     _Int. J. Quant. Chem._, **** e26179 (10 pages) (2020). DOI: [10.1002/qua.26179](https://doi.org/10.1002/qua.26179)
+     _Int. J. Quant. Chem._, **120**, e26179 (10 pages) (2020). DOI: [10.1002/qua.26179](https://doi.org/10.1002/qua.26179)
 
 209. Kuniaki Ono, Takayuki Oyamada, Yukiumi Kita, and Masanori Tachikawa,
      "Theoretical analysis of the binding of a positron and pair-annihilation in fluorinated benzene molecules",
@@ -248,7 +248,7 @@
 
 197. Hideya Sugimoto, Masanori Tachikawa, and Taro Udagawa,
      "Multicomponent QM study on the reaction of HOSO + NO2 with H2O: Nuclear quantum effect on structure and reaction energy profile",
-     _Int. J. Quant. Chem._, **** e25895 (10 pages) (2018). (Cover Image) DOI: [10.1002/qua.25895](https://doi.org/10.1002/qua.25895)
+     _Int. J. Quant. Chem._, **119**, e25895 (10 pages) (2018). (Cover Image) DOI: [10.1002/qua.25895](https://doi.org/10.1002/qua.25895)
 
 196. Yutaro Sugiura, Kento Suzuki, Toshiyuki Takayanagi, Yukiumi Kita, and Masanori Tachikawa,
      "Reduction of OH vibrational frequencies in amino acids by positron attachment",
@@ -554,7 +554,7 @@
 
 123. Takayoshi Ishimoto and Masanori Tachikawa,
      "Theoretical analysis of phase transition temperature of hydrogen-bonded dielectric materials induced by H/D isotope effect",
-     _Advances in Quantum Methods and Applications in Chemistry_, **** Physics, and Biology, B27, 303-329 (2013). DOI: [10.1007/978-3-319-01529-3_17](https://doi.org/10.1007/978-3-319-01529-3_17)
+     _Advances in Quantum Methods and Applications in Chemistry, Physics, and Biology_, **B27**, 303-329 (2013). DOI: [10.1007/978-3-319-01529-3_17](https://doi.org/10.1007/978-3-319-01529-3_17)
 
 122. Qi Wang, Kimichi Suzuki, Umpei Nagashima, Masanori Tachikawa, and Shiwei Yan,
      "Semiempirical investigations on the stabilization energies and ionic hydrogen-bonded structures of F-(H2O)n and Cl-(H2O)n (n=1-4) clusters",
@@ -572,7 +572,7 @@
 
 119. K. Suzuki, H. Ishibashi, K. Yagi, M. Shiga, and M. Tachikawa,
      "Ab initio path integral molecular dynamics simulations of F2H- and F2H3+",
-     _Progress in Theoretical Chemistry and Physics_, **** B26, 207-216 (2012).
+     _Progress in Theoretical Chemistry and Physics_, **B26**, 207-216 (2012).
 
 118. J. Koseki, Yukiumi Kita, S. Hiraoka, U. Nagashima, and M. Tachikawa,
      "Temperature dependence of self-assembled molecular capsules consisting of gear-shaped amphiphile molecules with molecular dynamics simulations",
@@ -662,7 +662,7 @@
 
  97. K. Suzuki, M. Kayanuma, M. Tachikawa, H. Ogawa, H. Nishihara, T. Kyotani, and U. Nagashima,
      "Nuclear quantum effect on hydrogen adsorption site of zeolite-templated carbon model using path integral molecular dynamics",
-     _J. Alloys and Compounds_, **** 509S, S868-S871 (2011).
+     _J. Alloys and Compounds_, **509S**, S868-S871 (2011).
 
 ## 2010
 
@@ -874,7 +874,7 @@
 
  47. Y. Maruyama, M. Tachikawa, and S. Kawano,
      "Ab Initio Study of DNA Double-Strand Breaks by Hydroxyl Radical",
-     _JSME Int. J._, **** Ser. B. 48, 196-201 (2005).
+     _JSME Int. J. Ser. B_, **48**, 196-201 (2005).
 
  46. R. J. Buenker, H. Liebermann, V. Melnikov, M. Tachikawa, L. Pichl, and M. Kimura,
      "Positron Binding Energies for Alkali Hydrides",
@@ -964,7 +964,7 @@
 
  26. M. Tachikawa, A. Kawai, and T. Ebisuzaki,
      "Application of a Special-Purpose Computer MDM for the First-Principles Calculation",
-     __, **** 6th World Multiconference on Systemics, Cybernetics, and Informatics, SCI2002, 518-521 (2002).
+     _6th World Multiconference on Systemics, Cybernetics, and Informatics_, **SCI2002**, 518-521 (2002).
 
  25. M. Tachikawa, T. Ishimoto, H. Tokiwa, H. Kasatani, and K. Deguchi,
      "First-principle calculation on isotope effect in KH2PO4 and KD2PO4 of hydrogen-bonded dielectric materials. Approach with dynamic extended molecular orbital method",
