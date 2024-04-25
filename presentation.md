@@ -6,55 +6,23 @@
 - Masanori Tachikawa (Oral contribution)
 “Path integral simulation for H/D isotope effect in protonated/deuterated aqueous solution”
 
-### J-PARC Workshop 2022, Deuterium Science to Entering a New Phase, (Tokai, Japan , on January 19, 20th, 2023)
+### 第17回分子科学討論会（2023年9月）
 
-- Masanori Tachikawa (Oral contribution)
-“Quantum Multi-Component Molecular Theory for Hydrogen Bonded System and its H/D isotope Effect.”
-- Mio Takakuwa (Poster)
-“Teoretical analysis on hydrogen-bonded structures of EGFP with multi-component density functional theory”
-- Kazuaki Kuwahata (Poster)
-“A path integral molecular dynamics study on the muoniated xanthenethione”
-- Kazuki Tatenuma (Poster)
-“Theoretical study of H+/D+ in light/heavy water solvent using path integral molecular dynamics simulation”
-- Hiroki Sakagami (Poster)
-“Theoretical analysis of H/D isotope effect on CH4/CD4 adsorption on Rh(111) surface using combined plane wave and localized basis sets method”
-- Shuhei Ohno (Poster)
-“Variational calculations for hydrogen isotopes”
-
-### Asia Pacific Conference of Theoretical and Computational Chemistry  (APATCC-10) 
-- Masanori Tachikawa (Oral contribution)
-“Path integral simulation for H/D isotope effect in protonated/deuterated aqueous solution”
-
-### Pre-Symposium of JSPSAAA, (CNS-ANSTO & Online, Sydney, Australia, on14th, March, 2023)
-- Masanori Tachikawa (Oral contribution)
-“Quantum Multi-Component Molecular Theory for H-Bonded System and its H/D Isotope Effect”
-
-### ナノテク交流シンポジウム（2023年3月）
-
-- 大野周平、蓼沼一輝、大北若奈、紀慧美、沼田健太郎（ポスター発表）
-
-### 第25回理論化学討論会（2023年5月）
-
-- 吉田大輔、高橋開人（口頭発表）
-  「Ni + CO → NiCO のスピンクロスオーバー反応の正しい理解」
-- 桑畑和明、伊藤繁和，立川仁典（ポスター発表）
-  「ミューオニウム化キサンテンチオンの HFCC に対する量子効果」
+- 村田萌、小林理，平岡秀一，島崎智実，立川仁典（ポスター発表）
+  「歯車状両親媒性分子の自己集合体におけるメチル基の置換基効果解析のための分子動力学シミュレーション」
+- 桑畑和明、立川仁典（ポスター発表）
+  「経路積分分子動力学法を用いたice VIIからice Xへの相転移」
 - 高桑美央、島崎智実，立川仁典，北幸海（ポスター発表）
-  「多成分密度汎関数法を用いた EGFP の水素結合構造に関する理論的解析」
-- 折小野諭、桑畑和明，島崎智実，立川仁典（ポスター発表）
-  「経路積分分子動力学法によるミューオニウム化 N-ヘテロ環カルベンの理論的研究」
-- 阿部祐作、桑畑和明，島崎智実，立川仁典（ポスター発表）
-  「リン酸水素鉛の相転移に関する同位体効果の理論的解析 」
-- 高木牧人、蓼沼一輝，島崎智実，立川仁典（ポスター発表）
-  「経路積分分子動力学法を用いた軽水/重水溶媒中での H + /D+に関する理論的解析」
-- 山下晃一、金正徳，小暮紗奈，大森鈴音，村岡梓（ポスター発表）
-  「二重ペロブスカイト CsSn0.5Ge0.5I3の光学物性と欠陥構造」
-  
-### POSMOL2023, (Univ. Notre Dame, USA on August 3-6, 2023)
-- Shumpei Ito, Daisuke Yoshida, Yukiumi Kita, Tomomi Shimazaki, and Masanori Tachikawa (Invited, contribution) 
-“Quantum Monte Carlo study on positron binding to atomic anion dimers”
+  「第一原理計算を用いた緑色蛍光タンパク質の発色団近傍の水素結合構造に関する理論的研究」
+- 一瀬優、小林理，島崎智実，平岡秀一，立川仁典（ポスター発表）
+  「自己集合性金属錯体における配位子の構造と形成速度の相関」
+- 紀慧美、内藤拓海，高木牧人，立川仁典，山下晃一，島崎智実（ポスター発表）
+  「SnGe系ペロブスカイト表面に対するパッシベーションの理論的研究」
+- 沼田健太郎、吉田大輔，立川仁典，北幸海（ポスター発表）
+  「量子モンテカルロ法を用いたフッ素分子二価アニオンの陽電子化合物に関する理論的解析」
 
 ### TACC2023, (Hokkaido Univ. Sapporo, Japan on September 4-9, 2023)
+
 - Shumpei Ito, Daisuke Yoshida, Yukiumi Kita, Tomomi Shimazaki, and Masanori Tachikawa (Oral contribution)
 “Quantum Monte Carlo study on positron binding to atomic anion dimers”
 - Daisuke Yoshida (Oral contribution)
@@ -72,20 +40,53 @@
 - Mio Takakuwa (Poster)
 “Theoretical study on hydrogen-bonded structures of the green fluorescent protein with multi-component density functional theory”
 
-### 第17回分子科学討論会（2023年9月）
+### POSMOL2023, (Univ. Notre Dame, USA on August 3-6, 2023)
+- Shumpei Ito, Daisuke Yoshida, Yukiumi Kita, Tomomi Shimazaki, and Masanori Tachikawa (Invited, contribution) 
+“Quantum Monte Carlo study on positron binding to atomic anion dimers”
 
-- 村田萌、小林理，平岡秀一，島崎智実，立川仁典（ポスター発表）
-  「歯車状両親媒性分子の自己集合体におけるメチル基の置換基効果解析のための分子動力学シミュレーション」
-- 桑畑和明、立川仁典（ポスター発表）
-  「経路積分分子動力学法を用いたice VIIからice Xへの相転移」
+### 第25回理論化学討論会（2023年5月）
+
+- 吉田大輔、高橋開人（口頭発表）
+  「Ni + CO → NiCO のスピンクロスオーバー反応の正しい理解」
+- 桑畑和明、伊藤繁和，立川仁典（ポスター発表）
+  「ミューオニウム化キサンテンチオンの HFCC に対する量子効果」
 - 高桑美央、島崎智実，立川仁典，北幸海（ポスター発表）
-  「第一原理計算を用いた緑色蛍光タンパク質の発色団近傍の水素結合構造に関する理論的研究」
-- 一瀬優、小林理，島崎智実，平岡秀一，立川仁典（ポスター発表）
-  「自己集合性金属錯体における配位子の構造と形成速度の相関」
-- 紀慧美、内藤拓海，高木牧人，立川仁典，山下晃一，島崎智実（ポスター発表）
-  「SnGe系ペロブスカイト表面に対するパッシベーションの理論的研究」
-- 沼田健太郎、吉田大輔，立川仁典，北幸海（ポスター発表）
-  「量子モンテカルロ法を用いたフッ素分子二価アニオンの陽電子化合物に関する理論的解析」
+  「多成分密度汎関数法を用いた EGFP の水素結合構造に関する理論的解析」
+- 折小野諭、桑畑和明，島崎智実，立川仁典（ポスター発表）
+  「経路積分分子動力学法によるミューオニウム化 N-ヘテロ環カルベンの理論的研究」
+- 阿部祐作、桑畑和明，島崎智実，立川仁典（ポスター発表）
+  「リン酸水素鉛の相転移に関する同位体効果の理論的解析 」
+- 高木牧人、蓼沼一輝，島崎智実，立川仁典（ポスター発表）
+  「経路積分分子動力学法を用いた軽水/重水溶媒中での H + /D+に関する理論的解析」
+- 山下晃一、金正徳，小暮紗奈，大森鈴音，村岡梓（ポスター発表）
+  「二重ペロブスカイト CsSn0.5Ge0.5I3の光学物性と欠陥構造」
+
+### ナノテク交流シンポジウム（2023年3月）
+
+- 大野周平、蓼沼一輝、大北若奈、紀慧美、沼田健太郎（ポスター発表）
+
+### Pre-Symposium of JSPSAAA, (CNS-ANSTO & Online, Sydney, Australia, on14th, March, 2023)
+- Masanori Tachikawa (Oral contribution)
+“Quantum Multi-Component Molecular Theory for H-Bonded System and its H/D Isotope Effect”
+
+### Asia Pacific Conference of Theoretical and Computational Chemistry  (APATCC-10) 
+- Masanori Tachikawa (Oral contribution)
+“Path integral simulation for H/D isotope effect in protonated/deuterated aqueous solution”
+
+### J-PARC Workshop 2022, Deuterium Science to Entering a New Phase, (Tokai, Japan , on January 19, 20th, 2023)
+
+- Masanori Tachikawa (Oral contribution)
+“Quantum Multi-Component Molecular Theory for Hydrogen Bonded System and its H/D isotope Effect.”
+- Mio Takakuwa (Poster)
+“Teoretical analysis on hydrogen-bonded structures of EGFP with multi-component density functional theory”
+- Kazuaki Kuwahata (Poster)
+“A path integral molecular dynamics study on the muoniated xanthenethione”
+- Kazuki Tatenuma (Poster)
+“Theoretical study of H+/D+ in light/heavy water solvent using path integral molecular dynamics simulation”
+- Hiroki Sakagami (Poster)
+“Theoretical analysis of H/D isotope effect on CH4/CD4 adsorption on Rh(111) surface using combined plane wave and localized basis sets method”
+- Shuhei Ohno (Poster)
+“Variational calculations for hydrogen isotopes”
 
 
 ## 2022年度
