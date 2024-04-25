@@ -163,42 +163,9 @@
 
 ## 2019年度
 
-### 第22回理論化学討論会（2019年5月）
-- 石井桐子、立川仁典、北幸海（ポスター発表）
-「backflow変換を用いた新規振動座標による高精度非調和振動状態理論の開発」
-- 大場優生、小林理、立川仁典（ポスター発表）
-「経路積分分子動力学法を用いたミューオニウム化分子の理論計算」
-
-### The 23rd International Annual Symposium on Computational Science and Engineering(ANSCSE23), (Chanmai, Tailand on June 24-26, 2019)
-- Masanori Tachikawa, Osamu Kobayashi (Invited lecture)
-- Yuki Oba, Kiriko Ishi (Oral)
-- Takuya Ikeda, Sakura Okano, Maya Ozaki, Hiroki Sakagami, Tsugutoshi Nashiro (Poster)
-
-### The Cross-Disciplinary Conference on Stable Isotope Sciences (ISOTOPES 2019),(Raitenhaslach, Germany on July 7-12, 2019)
-- H. Sakagami, T. Ishimoto, and M. Tachikawa (Poster)
-“Development of accurate anharmonic vibrational state theory using a novel vibrational coordinate based on backflow transformation”
-
-### 31st International Conference on Photonic Electronic and Atomic Collisions (ICPEAC31)(Caen and Deauville, France, on 23 - 30 July, 2019)
-- Kiriko Ishii, Masanori Tachikawa, Yukiumi Kita (Poster)
-“Development of accurate anharmonic vibrational state theory using a novel vibrational coordinate based on backflow transformation”
-- Kaito Dohi, Masanori Tachikawa, Yukiumi Kita (Poster)
-“Theoretical analysis of the binding of a positron to acetaldehyde molecule”
-- Sakura Okano, Masanori Tachikawa (Poster)
-“Path integral molecular dynamics simulations for muoniated and hydrogenated thioacetone radicals”
-
-### 第13回分子科学討論会（2019年9月）
-- 池田卓弥、小林理、平岡秀一、Yi-Yang Zhan、立川仁典（ポスター発表）
-「内包分子による自己集合性ナノキューブの体積変化に関する理論的研究」
-- 尾崎真椰、北幸海、立川仁典（ポスター発表）
-「アミノ酸分子への陽電子束縛と対消滅機構の理論的解析」
-- 坂上弘輝、石元孝佳、小林理、立川仁典（ポスター発表）
-「金属表面へのCH4/CD4吸着におけるH/D同位体効果の解析に向けたCPLB法の開発」
-- 高木牧人、前田理、立川仁典（ポスター発表）
-「人工力誘起反応法を用いた炭化ケイ素の結晶構造予測」
-- 石井桐子、立川仁典、北幸海（ポスター発表）
-「backflow変換を用いた新規振動座標による非調和振動状態理論の開発」
-- 土肥海人、立川仁典、北幸海（ポスター発表）
-「振動励起状態におけるアセトアルデヒド分子への陽電子束縛と対消滅メカニズムの理論的解析
+### 第13回 物性科学領域横断研究会 (2019年 11月)
+- 坂上 弘輝、石元 孝佳、立川 仁典
+「金属表面への吸着機構に関する H/D 同位体効果の理論解析」
 
 ### 日本コンピュータ化学会2019秋季年会（2019年10月）
 - 石井桐子、立川仁典、北幸海（口頭発表）
@@ -216,9 +183,44 @@
 - 坂上弘輝、石元孝佳、立川仁典（ポスター発表）
 「CPLB法の開発とRh表面へのメタン吸着に関するH/D同位体効果の解析」
 
-### 第13回 物性科学領域横断研究会 (2019年 11月)
-- 坂上 弘輝、石元 孝佳、立川 仁典
-「金属表面への吸着機構に関する H/D 同位体効果の理論解析」
+### 第13回分子科学討論会（2019年9月）
+- 池田卓弥、小林理、平岡秀一、Yi-Yang Zhan、立川仁典（ポスター発表）
+「内包分子による自己集合性ナノキューブの体積変化に関する理論的研究」
+- 尾崎真椰、北幸海、立川仁典（ポスター発表）
+「アミノ酸分子への陽電子束縛と対消滅機構の理論的解析」
+- 坂上弘輝、石元孝佳、小林理、立川仁典（ポスター発表）
+「金属表面へのCH4/CD4吸着におけるH/D同位体効果の解析に向けたCPLB法の開発」
+- 高木牧人、前田理、立川仁典（ポスター発表）
+「人工力誘起反応法を用いた炭化ケイ素の結晶構造予測」
+- 石井桐子、立川仁典、北幸海（
+
+ポスター発表）
+「backflow変換を用いた新規振動座標による非調和振動状態理論の開発」
+- 土肥海人、立川仁典、北幸海（ポスター発表）
+「振動励起状態におけるアセトアルデヒド分子への陽電子束縛と対消滅メカニズムの理論的解析」
+
+### 31st International Conference on Photonic Electronic and Atomic Collisions (ICPEAC31)(Caen and Deauville, France, on 23 - 30 July, 2019)
+- Kiriko Ishii, Masanori Tachikawa, Yukiumi Kita (Poster)
+“Development of accurate anharmonic vibrational state theory using a novel vibrational coordinate based on backflow transformation”
+- Kaito Dohi, Masanori Tachikawa, Yukiumi Kita (Poster)
+“Theoretical analysis of the binding of a positron to acetaldehyde molecule”
+- Sakura Okano, Masanori Tachikawa (Poster)
+“Path integral molecular dynamics simulations for muoniated and hydrogenated thioacetone radicals”
+
+### The Cross-Disciplinary Conference on Stable Isotope Sciences (ISOTOPES 2019),(Raitenhaslach, Germany on July 7-12, 2019)
+- H. Sakagami, T. Ishimoto, and M. Tachikawa (Poster)
+“Development of accurate anharmonic vibrational state theory using a novel vibrational coordinate based on backflow transformation”
+
+### The 23rd International Annual Symposium on Computational Science and Engineering(ANSCSE23), (Chanmai, Tailand on June 24-26, 2019)
+- Masanori Tachikawa, Osamu Kobayashi (Invited lecture)
+- Yuki Oba, Kiriko Ishi (Oral)
+- Takuya Ikeda, Sakura Okano, Maya Ozaki, Hiroki Sakagami, Tsugutoshi Nashiro (Poster)
+
+### 第22回理論化学討論会（2019年5月）
+- 石井桐子、立川仁典、北幸海（ポスター発表）
+「backflow変換を用いた新規振動座標による高精度非調和振動状態理論の開発」
+- 大場優生、小林理、立川仁典（ポスター発表）
+「経路積分分子動力学法を用いたミューオニウム化分子の理論計算」
 
 ## 2018年度
 
