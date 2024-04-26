@@ -1,5 +1,3 @@
-## 2024年度
-
 ## 2023年度
 
 ### Carbon Chemistry and Materials (CCM-2023) (Paris, France on 23-27 October 2023)
