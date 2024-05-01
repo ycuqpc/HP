@@ -1,16 +1,21 @@
 ## 2023
 
-256. Kazuki Tatenuma, Makito Takagi, Tomomi Shimazaki, and Masanori Tachikawa,
+257. Kazuki Tatenuma, Makito Takagi, Tomomi Shimazaki, and Masanori Tachikawa,
      "Structural H/D isotope effect in excess proton/deuteron in light/heavy water solvent by using path integral molecular dynamics simulation",
      _Bull. Chem. Soc. Jpn._, in press (2023). DOI: [10.1093/bulcsj/uoad009](https://doi.org/10.1093/bulcsj/uoad009)
 
-255. Kazuaki Kuwahata, Shigekazu Ito, and Masanori Tachikawa,
+256. Kazuaki Kuwahata, Shigekazu Ito, and Masanori Tachikawa,
      "A path integral molecular dynamics study on the muoniated xanthene-thione molecule",
      _J. Chem. Phys._, **159**, 104301 (8 pages) (2023). DOI: [10.1063/5.0159207](https://doi.org/10.1063/5.0159207)
 
-254. Takumi Naito, Makito Takagi, Masanori Tachikawa, Koichi Yamashita, and Tomomi Shimazaki,
+255. Takumi Naito, Makito Takagi, Masanori Tachikawa, Koichi Yamashita, and Tomomi Shimazaki,
      "Theoretical Study of the Molecular Passivation Effect of Lewis Base/Acid on Lead-Free Tin Perovskite Surface Defects",
      _J. Phys. Chem. Lett._, **14**, 6695-6701 (2023). (Cover Image) DOI: [10.1021/acs.jpclett.3c01450](https://doi.org/10.1021/acs.jpclett.3c01450)
+
+254. M. Takakuwa, Y. Kita, T. Shimazaki, Y. Kanematsu, T. Ishimoto, M. Adachi, and M. Tachikawa, 
+     "Theoretical Analysis of Hydrogen-Bonded Structures of the Enhanced Green Fluorescent Protein with 
+Multi-Component Density Functional Theory",
+     _Bull. Chem. Soc. Jpn._, **96**, 711-716 (2023). DOI: [10.1246/bcsj.20230085](https://doi.org/10.1246/bcsj.20230085)
 
 253. Taro Udagawa, Hinata Yabushita, Hikaru Tanaka, Kazuaki Kuwahata, and Masanori Tachikawa,
      "Nuclear quantum and H/D isotope effects on intramolecular hydrogen bond in curcumin",
