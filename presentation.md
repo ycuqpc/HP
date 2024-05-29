@@ -1,9 +1,5 @@
 ## 2023年度
 
-### Carbon Chemistry and Materials (CCM-2023) (Paris, France on 23-27 October 2023)
-- Masanori Tachikawa (Oral contribution)
-“Path integral simulation for H/D isotope effect in protonated/deuterated aqueous solution”
-
 ### 日本コンピュータ化学会2023秋季年会（2023年11月）
 
 - 高桑 美央, 島崎 智実, 立川 仁典, 北 幸海(口頭発表) 
@@ -22,6 +18,14 @@
  「Li媒介アンモニア合成反応機構に関する理論研究」
 - 折小野 諭, 桑畑 和明, 島崎 智実, 立川 仁典(ポスター発表) 
  「ミューオニウム化N-ヘテロ環カルベンのHFCCに対する量子効果の理論的解析」
+
+### Carbon Chemistry and Materials (CCM-2023) (Paris, France on 23-27 October 2023)
+- Masanori Tachikawa (Oral contribution)
+“Path integral simulation for H/D isotope effect in protonated/deuterated aqueous solution”
+
+### 第16回材料系ワークショップ（2023年10月）
+- 島崎智美
+  「有機材料の機能解明に向けた第一原理シミュレーション」(口頭発表)
 
 ### 第17回分子科学討論会（2023年9月）
 
