@@ -1,9 +1,39 @@
+## 2024
+
+264. Hikaru Tanaka, Kazuaki Kuwahata, Masanori Tachikawa, and Taro Udagawa,
+     "Nuclear quantum and H/D isotope effects on aromaticity: path integral molecular dynamics study",
+     _Phys. Chem. Chem. Phys._, in press (6 pages) (2024). DOI: [10.1039/d4cp01331j](https://doi.org/10.1039/d4cp01331j)
+
+263. Tomomi Shimazaki and Masanori Tachikawa,
+     "Theoretical study of short-range exchange interaction based on semiconductor dielectric function model toward time-dependent dielectric density functional theory",
+     _J. Chem. Phys._, **161**, 014107 (12 pages) (2024). DOI: [10.1063/5.0207751](https://doi.org/10.1063/5.0207751)
+
+262. Kazuaki Kuwahata and Masanori Tachikawa,
+     "Nuclear quantum effects in phase transition between Ice VII and Ice X",
+     _J. Chem. Phys._, **160**, 214501 (6 pages) (2024). DOI: [10.1063/5.0205529](https://doi.org/10.1063/5.0205529)
+
+261. Taro Udagawa, Haruya Shibata, and Masanori Tachikawa,
+     "Significant nuclear quantum effect of proton in the reaction of phenol and hydroxyl radical",
+     _Chem. Phys._, **581**, 112258 (9 pages) (2024). DOI: [10.1016/j.chemphys.2024.1](https://doi.org/10.1016/j.chemphys.2024.1)
+
+260. Taro Udagawa, Hikaru Tanaka, Kazuaki Kuwahata, and Masanori Tachikawa,
+     "Location of the Shared Proton in Proton-Bound Dimer Compound of Hydrogen Sulfate and Formate: Path Integral Molecular Dynamics Study",
+     _J. Phys. Chem. A_, **128**, 2103-2110 (2024). (Cover Image) DOI: [10.1021/acs.jpca.4c00239](https://doi.org/10.1021/acs.jpca.4c00239)
+
 ## 2023
 
-257. Kazuki Tatenuma, Makito Takagi, Tomomi Shimazaki, and Masanori Tachikawa,
+259. Yuya Shimohata, Hiroki Sakagami, Yusuke Kanematsu, David S. Rivera Rocabado, Masanori Tachikawa, and Takayoshi Ishimoto,
+     "Exploring the Impact of H/D Isotope Effects of Hydrogen Bond Properties in Water Dimer, Trimer, and Water Adsorption on the Ice Ih(0001) Surface",
+     _J. Phys. Chem. C_, **127**, 24316-24323 (2023). DOI: [10.1021/acs.jpcc.3c04610](https://doi.org/10.1021/acs.jpcc.3c04610)
+
+258. Kazuki Tatenuma, Makito Takagi, Tomomi Shimazaki, and Masanori Tachikawa,
      "Structural H/D isotope effect in excess proton/deuteron in light/heavy water solvent by using path integral molecular dynamics simulation",
      _Bull. Chem. Soc. Jpn._, in press (2023). DOI: [10.1093/bulcsj/uoad009](https://doi.org/10.1093/bulcsj/uoad009)
 
+257. Tomomi Shimazaki and Masanori Tachikawa,
+     "Time-dependent dielectric density functional theory predictions for excited-state molecular properties using neural networks guided by lower-level quantum chemistry",
+     _Chem. Phys. Lett_., **829**, 140744-140744 (2023). DOI: [10.1016/j.cplett.2023.14074](https://doi.org/10.1016/j.cplett.2023.14074)
+     
 256. Kazuaki Kuwahata, Shigekazu Ito, and Masanori Tachikawa,
      "A path integral molecular dynamics study on the muoniated xanthene-thione molecule",
      _J. Chem. Phys._, **159**, 104301 (8 pages) (2023). DOI: [10.1063/5.0159207](https://doi.org/10.1063/5.0159207)
