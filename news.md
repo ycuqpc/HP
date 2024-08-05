@@ -1,5 +1,7 @@
 | DATE       | NEWS       |
 | :--------- | :--------- |
+| 2024.06    | D3の村田さんが[日本コンピュータ化学会2024年春季年会](https://www.sccj.net/events/nenkai/2024sp/)で奨学賞を受賞しました! |
+| 2024.05.01 | D1の高桑さんとD1の三澤さんがSPRING事業に採択されました! |
 | 2024.04.01 | D1の三澤さん、M1の足羽さん、B4の安藤君、勝田君、木内君、髙嶋君、田中君、中薗君、馬塲君、宮坂君、渡邊さんが研究室の新たなメンバーとして加わりました!! |
 | 2024.02.19 | D1の大野さんとM2の高桑さんが[Gaussian講習会](https://github.com/ohno/gaussian)で講師を務めました! |
 | 2024.01.20 | YCUスクエアにて [8th International Workshop on Quantum Chemistry, 2023](https://ycuqpc.github.io/IWQC8th/) を開催します! |
