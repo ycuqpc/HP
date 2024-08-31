@@ -1,6 +1,26 @@
 ## 2024年度
 
+### INY2024 (at National Taiwan University, Taipei, Taiwan, on 26 August -3 2024)
+- Mio Takakuwa (Oral contribution)
+“Computational study on the role of residues near the chromophore ni Enhanced Green Fluorescent Protein”
+- Kentaro Numata (Oral contribution)
+“Theoretical analysis fo positronic compounds fofluorine molecular dianions using quantum Monte Carlo method”
+- Yu Ishii (Poster)
+“Theoretical clarification of H/D isotope effects on the phase transition temperature of K3H(SO4)2”
+- Miu Ashiba (Poster)
+“Systematic Analysis of Positron Binding to Halogenated Hydrocarbons”
+- Ryota Araki (Poster)
+“Theoretical Study of Passivation on Sn Perovskite Surface by Amine-based Molecules”
+- Go Fujihara (Poster)
+“Theoretical study on dissociation reaction of nitrogen molecules on lithium clusters”
+
 ### ANSCSE27 (at Chulalongkorn University, Bangkok, Thailand, on 30 july -3 August 2024)
+- Hiroki Sakagami (Poster) 
+“Development of combined plane wave and localized basis sets method toward analysis of molecular adsorption on metal surface: a CH4/CD4 adsorption on Rh(111) surface”
+- Mio Takakuwa (Poster)
+“Theoretical analysis of the influence of residues around the chromophore on Enhanced Green Fluorescent Protein”
+- Emi Kino (Poster)
+“Theoretical Study on Surface Defects and the Molecular Passivation Effect for SnGe mixed Perovskite”
 
 ### 日本コンピュータ化学会2024春季年会（2024年6月）
 
@@ -19,14 +39,20 @@
 - 沼田　健太郎、吉田 大輔, 立川 仁典, 北 幸海 (ポスター発表)
   「量子モンテカルロ法を用いたフッ素分子二価アニオンと陽電子の複合体に関する理論的解析」
 
-### 日本科学会　第104春期年会 (2024年3月)
+### 日本化学会　第104春期年会 (2024年3月)
+
+- 折小野 諭, 桑畑 和明, 島崎 智実, 立川 仁典(口頭発表) 
+  「経路積分分子動力学法によるミューオニウム化 N-ヘテロ環カルベンの理論研究」
+- 高桑 美央, 島崎 智実, 立川 仁典, 北 幸海(口頭発表)
+  「第一原理計算を用いたEGFPの水素結合構造に関する理論的研究」
+  
 
 ### 第26回理論化学討論会（2024年5月）
 
 - 桑畑 和明(口頭発表)
   「経路積分分子動力学法を用いた高圧氷の相転移における量子効果」
 - 立川 仁典 (ポスター発表) 
-  「経路積分分子動力学法によるミューオニウム化 N-ヘテロ環カルベンの理論的研究」
+  「経路積分分子動力学法による N-ヘテロ環カルベンのミューオニウム付加構造理論的研究」
 - 山下 晃一 (ポスター発表) 
   「Ge アロイ化 Sn ペロブスカイトのキャリアダイナミクスの第一原理計算」
 - 紀　慧美 (ポスター発表) 
