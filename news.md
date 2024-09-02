@@ -1,9 +1,11 @@
 | DATE       | NEWS       |
 | :--------- | :--------- |
+| 2024.08.26 | M1の新城君が[INY2024](https://ao.iams.sinica.edu.tw/site/INY2024/)でBEST POSTER AWARDを受賞しました! |
+| 2024.08    | <br>D3の坂上君が[ANSCSE27](https://anscse27.com)でHONORABLE MENTION POSTER AWARDを受賞しました!<br>D1の高桑さんが[ANSCSE27](https://anscse27.com)でTHE BEST POSTER AWARDを受賞しました！<br>M2の紀さんが[ANSCSE27](https://anscse27.com)でTHE 2nd POSTER AWARDを受賞しました！<br>|
 | 2024.06    | D3の村田さんが[日本コンピュータ化学会2024年春季年会](https://www.sccj.net/events/nenkai/2024sp/)で奨学賞を受賞しました! |
 | 2024.05.01 | D1の高桑さんとD1の三澤さんがSPRING事業に採択されました! |
 | 2024.04.01 | D1の三澤さん、M1の足羽さん、B4の安藤君、勝田君、木内君、髙嶋君、田中君、中薗君、馬塲君、宮坂君、渡邊さんが研究室の新たなメンバーとして加わりました!! |
-| 2024.02.19 | D1の大野さんとM2の高桑さんが[Gaussian講習会](https://github.com/ohno/gaussian)で講師を務めました! |
+| 2024.02.19 | D1の大野君とM2の高桑さんが[Gaussian講習会](https://github.com/ohno/gaussian)で講師を務めました! |
 | 2024.01.20 | YCUスクエアにて [8th International Workshop on Quantum Chemistry, 2023](https://ycuqpc.github.io/IWQC8th/) を開催します! |
 | 2024.01.19 | 理学系研究棟にて [8th Japan-Thai workshop on Theoretical and Computational Chemistry 2023](https://ycuqpc.github.io/JTTCC8th/) を開催します! |
 | 2024.01.16 | ホームページをリニューアルしました！旧HPは[こちら](https://www-user.yokohama-cu.ac.jp/~tachi/oldweb/4th/)からご覧いただけます。 |
