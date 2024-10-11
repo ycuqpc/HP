@@ -11,7 +11,7 @@
 | 2024.01.16 | ホームページをリニューアルしました！旧HPは[こちら](https://www-user.yokohama-cu.ac.jp/~tachi/oldweb/4th/)からご覧いただけます。 |
 | 2023.11    | Canberra, Australia で開催された<a target="_blank" href="https://www.canberra.edu.au/about-uc/events/jspsaaa-annual-symposium" rel="noopener">「Fifth JSPSAAA Annual Symposium」</a>にて、立川教授が招待講演を行いました。 |
 | 2023.11    | レクザムホール(香川県民ホール)で開催された<a target="_blank" href="https://sites.google.com/view/sccj2023au/top" rel="noopener">「日本コンピュータ化学会2023年秋季」</a>にて、M2の阿部君、折小野君、高桑さんがポスター発表を行いました。 |
-| 2023.10.31 | <br><a href="./member.html">メンバー</a>を更新しました！<br><a href="./advantage.html#entrance">入試情報</a>を更新しました！<br><a href="./publication.html">業績</a>を更新しました！ |
+| 2023.10.31 | <a href="./member.html">メンバー</a>を更新しました！<br><a href="./advantage.html#entrance">入試情報</a>を更新しました！<br><a href="./publication.html">業績</a>を更新しました！ |
 | 2023.10    | Paris, France で開催された<a target="_blank" href="https://carbon.unitedscientificgroup.org/home.php" rel="noopener">「CCM2023」</a>にて、立川教授が招待講演を行いました。 |
 | 2023.10.3  | 秋葉原UDXで開催された<a target="_blank" href="https://www.hpci-office.jp/events/symposia/ws_material_231003" rel="noopener">「第16回材料系ワークショップ～アカデミアと社会を結ぶ「富岳」の利用に向けて～」</a>にて、島崎准教授が招待講演を行いました。 |
 | 2023.09    | 北海道大学で開催された<a target="_blank" href="https://wwwchem.sci.hokudai.ac.jp/tacc2023/" rel="noopener">「TACC2023」</a>にて、立川教授が招待講演を、吉田共同研究員が口頭発表を、山下特任教授、桑畑特別研究員、D3の坂上君、D2の村田さん、M2の阿部君、高桑さんがポスター発表を行いました。 |
@@ -49,7 +49,7 @@
 | 2018.07.01 | Albert先生が本研究室の特任准教授にご着任されました! |
 | 2018.07.01 | David先生が本研究室の特任助教にご着任されました! |
 | 2018.06.27 | 立川教授、小林特任助教が<a href="http://anscse23.ccl-cmu.com/" target"_blank">ANSCSE23</a>、ChiangMai, Thailandにて招待講演を行いました！ |
-| 2018.06.24 | 立川教授が「Thailand-Japan Symposium in Chemistry」、タイ王国・チェンマイ大学にて招待講演を行いました!<br/><br>高木先生が本研究室の特任助教にご着任されました！ |
+| 2018.06.24 | 立川教授が「Thailand-Japan Symposium in Chemistry」、タイ王国・チェンマイ大学にて招待講演を行いました!<br>高木先生が本研究室の特任助教にご着任されました！ |
 | 2018.04.01 | B4の伊藤君、岩崎君、小林君が研究室の新たなメンバーとして加わりました!! |
 | 2017.11.20 | 2018年日本表面真空学会学術講演会 |
 | 2017.11.15 | The 4th Korea-Japan Joint Symposium on Hydrogen in Materials(招待講演) |
@@ -138,7 +138,7 @@
 | 2013.01.15 | 増子さん（M1）の論文が、<a href="http://onlinelibrary.wiley.com/store/10.1002/qua.24372/asset/image_m/mgra001.jpg?v=1&s=9471e495bf3d38090c665df9d3a3e3fb89e13fca" target="_blank" rel="noopener">Int. J. Quantum. Chem.誌の表紙</a>を飾りました! |
 | 2012.08.20 | 立川教授が "<a href="http://www.qscp17.fi/" target="_blank" rel="noopener">Quantum Systems in Chemistry and Physics (QSCP)</a>" にて<br>招待講演を行いました。 |
 | 2012.07.14 | 立川教授が「<a href="http://ssl.yumenavi.info/live/uketuke/kakunin/Gakubu_pc.aspx?p=tokyo&g=060#31282" target="_blank" rel="noopener">夢ナビライブ2012</a>」にて招待講演を行いました。 |
-| 2012.07.13 | 立川教授が<a href="http://www.issp.u-tokyo.ac.jp/cgi-bin/n1004_detail.cgi?c=society_table::789" target="_blank" rel="noopener">東京大学物性研究所ワークショップ「表面・界面における輸送と変換」</a><br><p>　　　　　 にて招待講演を行いました。 |
+| 2012.07.13 | 立川教授が<a href="http://www.issp.u-tokyo.ac.jp/cgi-bin/n1004_detail.cgi?c=society_table::789" target="_blank" rel="noopener">東京大学物性研究所ワークショップ「表面・界面における輸送と変換」</a>にて招待講演を行いました。 |
 | 2012.07.04 | 増子さん（M1）の卒業論文が、Int. J. Quantum. Chem.誌に掲載されました。 |
 | 2012.05.30 | 立川教授が「第2回HPCI戦略プログラム分野交流研究会」にて招待講演を行いました。 |
 | 2012.05.23 | 小柳君（M2)の卒業論文が、Eur. Phys. J. D 誌に掲載されました。 |
