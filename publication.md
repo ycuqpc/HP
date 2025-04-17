@@ -1,34 +1,108 @@
+## 2025
+
+282. Emi Kino, Makito Takagi, Takumi Naito, Masanori Tachikawa, Koichi Yamashita, and Tomomi Shimazaki,
+"A theoretical study of the molecular passivation of p-/n-type defects on tin- and germanium-mixed perovskite surfaces using Lewis base/acid",
+Phys. Chem. Chem. Phys., 27, 7429-7439 (2025). DOI: [10.1039/D4CP03817G](https://doi.org/10.1039/D4CP03817G)
+
+281. Tatsuhiro Murakami, Haruki Ota, Shoto Nakagawa, Kunihiro Okada, Masanori Tachikawa, and Toshiyuki Takayanagi,
+"Attractive Force-Induced Isotope Effects through Ring-Polymer Molecular Dynamics Simulations for the Barrierless Reaction between HNCO and H3+ Isotopologues: H3+, H2D+, HD2+, and D3+",
+J. Phys. Chem. A, 129, 2308-2316 (2025). DOI: [10.1021/acs.jpca.4c08648](https://doi.org/10.1021/acs.jpca.4c08648)
+
+280. Hiroki Sakagami, Makito Takagi, Takayoshi Ishimoto, Tomomi Shimazaki, and Masanori Tachikawa,
+"Development of Hessian calculation using the combined plane wave and localized basis sets method and its application to adsorption of a water molecule on Pt(111) surface",
+Mol. Cat., 572, 114791 (7 pages) (2025). DOI: [10.1016/j.mcat.2024.114791](https://doi.org/10.1016/j.mcat.2024.114791)
+
+279. Taro Udagawa, Yusuke Kanematsu, Takayoshi Ishimoto, and Masanori Tachikawa,
+"Comprehensive Analysis of Deuterium Isotope Effects on Ionic H3O+...pi Interactions Using Multi-Component Quantum Mechanics Methods",
+J. Comp. Chem., 46, 1-10 (2025). DOI: [10.1002/jcc.70000](https://doi.org/10.1002/jcc.70000)
+
+278. Hikaru Tanaka, Takashi Ikawa, Hironao Sajiki, Masanori Tachikawa, and Taro Udagawa,
+"Theoretical analysis of the reaction mechanism of D2 gas generation using a Pd/C catalyst",
+Cat. Sci. and Tech., 15, 1434-1438 (2025). DOI: [10.1039/D4CY01537A](https://doi.org/10.1039/D4CY01537A)
+
+277. Makito Takagi, Tomomi Shimazaki, Osamu Kobayashi, Takayoshi Ishimoto, and Masanori Tachikawa,
+"Theoretical and machine learning models for reaction-barrier predictions: acrylate and methacrylate radical reactions",
+Phys. Chem. Chem. Phys., 27, 1772-1777 (2025). DOI: [10.1039/d4cp04656k](https://doi.org/10.1039/d4cp04656k)
+
+276. Kana Takemae, Shiho Tomihari, Takumi Naitou, Makito Takagi, Tomomi Shimazaki, Tokuhisa Kawawaki, Masanori Tachikawa, and Yuichi Negishi,
+"Inclusion of Gold Ion in Tiara-Like Nickel Hexanuclear Nanoclusters",
+Nanoscale, 17, 3721-3727 (2025). DOI: [10.1039/d4nr04579c](https://doi.org/10.1039/d4nr04579c)
+
+275. Adie Tri Hanindriyo, Makito Takagi, Yuto Tanaka, Tokuhisa Kawawaki, Yuichi Negishi, Tomomi Shimazaki, and Masanori Tachikawa,
+"Metal single-atom interaction with graphitic C3N4 surface based on density functional theory calculations and linear regression analysis",
+Chem. Phys., 588, 112478 (7 pages) (2025). DOI: [10.1016/j.chemphys.2024.112478](https://doi.org/10.1016/j.chemphys.2024.112478)
+
 ## 2024
 
-264. Hikaru Tanaka, Kazuaki Kuwahata, Masanori Tachikawa, and Taro Udagawa,
+274. Satoshi Orikono, Kazuaki Kuwahata, Tomomi Shimazaki, and Masanori Tachikawa,
+"A theoretical study on muoniated N-heterocyclic carbenes using path integral molecular dynamics",
+J. Chem. Phys., 161, 184305 (7 pages) (2024). DOI: [10.1063/5.0234050](https://doi.org/10.1063/5.0234050)
+
+273. Aiko Io, Kimichi Suzuki, Makito Takagi, and Masanori Tachikawa,
+"Efficient quantum mechanical minimum free energy path calculation by combining path integral hybrid Monte Carlo and climbing image nudged elastic band methods, and its application to the addition reaction of hydrogen isocyanide to formaldehyde",
+J. Chem. Phys., 161, 174304 (10 pages) (2024). DOI: [10.1063/5.0225208](https://doi.org/10.1063/5.0225208)
+
+272. Takatsugu Wakahara, Chika Hirata, Dorra Mahdaoui, Kazuko Fujii, Yoshitaka Matsushita, Osamu Ito, Makito Takagi, Tomomi Shimazaki, Masanori Tachikawa, Shinjiro Yagyu, Yubin Liu, Yoshiyuki Nakajima, Takuro Nagai, and Kazuhito Tsukagoshi,
+"One-dimensional C60 Arrays in Noncovalent Benzidine Networks",
+Carbon, 253, 119838 (8 pages) (2024). DOI: [10.1016/j.carbon.2024.119838](https://doi.org/10.1016/j.carbon.2024.119838)
+
+271. Hiroyuki S. Kato, Mizuho Muroyama, Nano Kobayakawa, Riku Muneyasu, Yasutaka Tsuda, Natsumi Murase, Seiya Watanabe, Takashi Yamada, Yusuke Kanematsu, Masanori Tachikawa, Megumi Akai-Kasaya, Michio Okada, and Akitaka Yoshigoe,
+"Electron Transfer Capability in Atomic Hydrogen Reactions for Imidazole Groups Bound to the Insulating Alkanethiolate Layer on Au(111)",
+J. Phys. Chem. L, 15, 10769-10776 (2024). DOI: [10.1021/acs.jpclett.4c02306](https://doi.org/10.1021/acs.jpclett.4c02306)
+
+270. Amba Datt Pant, Akihiro Koda, Burkhard Geil, Katsuhiko Ishida, Rajendra Adhikari, Kazuaki Kuwahata, Masanori Tachikawa, and Koichiro Shimomura,
+"Formation and structure of MuOH in ice studied my muon spin rotation",
+Phys. Rev. B, 110, 104104 (10 pages) (2024). DOI: [10.1103/physrevb.110.104104](https://doi.org/10.1103/physrevb.110.104104)
+
+269. Kotomi Nishikawa, Hikaru Tanaka, Kazuaki Kuwahata, Masanori Tachikawa, and Taro Udagawa,
+"Nuclear quantum effects on the intramolecular hydrogen bonds in biuret and biguanide",
+Phys. Chem. Chem. Phys., 26, 24364-24369 (2024). DOI: [10.1039/D4CP02047B](https://doi.org/10.1039/D4CP02047B)
+
+268. Kaito Dohi, Masanori Tachikawa, and Yukiumi Kita,
+"Theoretical analysis of H/D isotope effect on the binding of a positron to acetaldehyde molecule",
+Eur. Phys. J. D, 78, 110 (8pages) (2024). DOI: [10.1140/epjd/s10053-024-00871-1](https://doi.org/10.1140/epjd/s10053-024-00871-1)
+
+267. Zhuowei Li, Takahiro Tsuneyuki, Rajendra Prasad Paitandi, Takumi Nakazato, Masahiro Odawara, Yusuke Tsutsui, Takayuki Tanaka, Yoshihiro Miyake, Hiroshi Shinokubo, Makito Takagi, Tomomi Shimazaki, Masanori Tachikawa, Katsuaki Suzuki, Hironori Kaji, Samrat Ghosh, and Shu Seki,
+"Ultrafine Spatial Modulation of Diazapyrene-Based Two-Dimensional Conjugated Covalent Organic Frameworks",
+J. Am. Chem. Soc., 146, 23497-23507 (2024). DOI: [10.1021/jacs.4c07091](https://doi.org/10.1021/jacs.4c07091)
+
+266. Hikaru Tanaka, Kazuaki Kuwahata, Masanori Tachikawa, and Taro Udagawa,
      "Nuclear quantum and H/D isotope effects on aromaticity: path integral molecular dynamics study",
      _Phys. Chem. Chem. Phys._, in press (6 pages) (2024). DOI: [10.1039/d4cp01331j](https://doi.org/10.1039/d4cp01331j)
 
-263. Tomomi Shimazaki and Masanori Tachikawa,
+265. Tomomi Shimazaki and Masanori Tachikawa,
      "Theoretical study of short-range exchange interaction based on semiconductor dielectric function model toward time-dependent dielectric density functional theory",
      _J. Chem. Phys._, **161**, 014107 (12 pages) (2024). DOI: [10.1063/5.0207751](https://doi.org/10.1063/5.0207751)
 
-262. Kazuaki Kuwahata and Masanori Tachikawa,
+264. Yu Ichinose, Osamu Kobayashi, Tomomi Shimazaki, Shuichi Hiraoka, and Masanori Tachikawa,
+"Theoretical Study on Rate-Determining Reactions for Constructing Self-Assembling Molecular Cages Controlled by Distorted Ditopic Ligands",
+J. Phys. Chem. C, 128, 10643-10649 (2024). DOI: [10.1021/acs.jpcc.4c01525](https://doi.org/10.1021/acs.jpcc.4c01525)
+
+263. Kazuaki Kuwahata and Masanori Tachikawa,
      "Nuclear quantum effects in phase transition between Ice VII and Ice X",
      _J. Chem. Phys._, **160**, 214501 (6 pages) (2024). DOI: [10.1063/5.0205529](https://doi.org/10.1063/5.0205529)
 
-261. Taro Udagawa, Haruya Shibata, and Masanori Tachikawa,
+262. Taro Udagawa, Haruya Shibata, and Masanori Tachikawa,
      "Significant nuclear quantum effect of proton in the reaction of phenol and hydroxyl radical",
      _Chem. Phys._, **581**, 112258 (9 pages) (2024). DOI: [10.1016/j.chemphys.2024.1](https://doi.org/10.1016/j.chemphys.2024.1)
 
-260. Taro Udagawa, Hikaru Tanaka, Kazuaki Kuwahata, and Masanori Tachikawa,
+261. Taro Udagawa, Hikaru Tanaka, Kazuaki Kuwahata, and Masanori Tachikawa,
      "Location of the Shared Proton in Proton-Bound Dimer Compound of Hydrogen Sulfate and Formate: Path Integral Molecular Dynamics Study",
      _J. Phys. Chem. A_, **128**, 2103-2110 (2024). (Cover Image) DOI: [10.1021/acs.jpca.4c00239](https://doi.org/10.1021/acs.jpca.4c00239)
 
+260.Kazuaki Kuwahata, Yukio Kawashima, Atsushi Fukushima, Masanori Tachikawa, and Miyako Kusano,
+"Dependence of Substituents on UV-vis Spectra and Solvent Effect of Anthocyanins by Quantum Chemical Approach",
+J. Comput. Chem. Jpn., 10, 2023-0045 (7 pages) (2024). DOI: [10.2477/jccjie.2023-0045](https://doi.org/10.2477/jccjie.2023-0045)
+
+259. Kazuki Tatenuma, Makito Takagi, Tomomi Shimazaki, and Masanori Tachikawa,
+"Analysis of the structural H/D isotope effect with an excess proton/deuteron in light/heavy water solvent using path integral molecular dynamics simulations",
+Bull. Chem. Soc. Jpn., 97, uoad009 (7 pages) (2024). DOI: [10.1093/bulcsj/uoad009](https://doi.org/10.1093/bulcsj/uoad009)
+
 ## 2023
 
-259. Yuya Shimohata, Hiroki Sakagami, Yusuke Kanematsu, David S. Rivera Rocabado, Masanori Tachikawa, and Takayoshi Ishimoto,
+258. Yuya Shimohata, Hiroki Sakagami, Yusuke Kanematsu, David S. Rivera Rocabado, Masanori Tachikawa, and Takayoshi Ishimoto,
      "Exploring the Impact of H/D Isotope Effects of Hydrogen Bond Properties in Water Dimer, Trimer, and Water Adsorption on the Ice Ih(0001) Surface",
      _J. Phys. Chem. C_, **127**, 24316-24323 (2023). DOI: [10.1021/acs.jpcc.3c04610](https://doi.org/10.1021/acs.jpcc.3c04610)
-
-258. Kazuki Tatenuma, Makito Takagi, Tomomi Shimazaki, and Masanori Tachikawa,
-     "Structural H/D isotope effect in excess proton/deuteron in light/heavy water solvent by using path integral molecular dynamics simulation",
-     _Bull. Chem. Soc. Jpn._, in press (2023). DOI: [10.1093/bulcsj/uoad009](https://doi.org/10.1093/bulcsj/uoad009)
 
 257. Tomomi Shimazaki and Masanori Tachikawa,
      "Time-dependent dielectric density functional theory predictions for excited-state molecular properties using neural networks guided by lower-level quantum chemistry",
