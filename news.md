@@ -1,4 +1,5 @@
 | DATE       | NEWS       |  
+|----------- |--------------------------------------------------------------------------------------------|
 | 2025.04    | 神戸で開催された[11th Asia Pacific Association of Theoretical and Computational Chemistry (APATCC11)](https://apatcc11.jp/)にて、立川教授が招待講演を行いました。|　　 　
 | 2025.04.01 | D1の内藤君、M1の明珍君、B4の今井君、今野君、内田さん、角坂君、河原君、鈴木君、蘇さん、能條君、丸山君が研究室の新たなメンバーとして加わりました!! |
 | 2025.03    | [2025.03 Department of Chemistry, National Taiwan Normal University, Taiwan](https://www.chem.ntnu.edu.tw/index.php/lecture/)にて、立川教授が招待講演を行いました。 |
