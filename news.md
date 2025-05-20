@@ -1,6 +1,15 @@
 | DATE       | NEWS       |
-| :--------- | :--------- |
-| :--------- | :--------- |
+| 2025.04    | 神戸で開催された[11th Asia Pacific Association of Theoretical and Computational Chemistry (APATCC11)](https://apatcc11.jp/)にて、立川教授が招待講演を行いました。 |
+| 2025.04.01 | D1の内藤君、M1の明珍君、B4の今井君、今野君、内田さん、角坂君、河原君、鈴木君、蘇さん、能條君、丸山君が研究室の新たなメンバーとして加わりました!! |
+| 2025.03    | [2025.03 Department of Chemistry, National Taiwan Normal University, Taiwan](https://www.chem.ntnu.edu.tw/index.php/lecture/)にて、立川教授が招待講演を行いました。 |
+| 2025.03    | Providence University, Taiwanで開催された[2025 Chemistry National Meeting (CNM2025)](https://2025cnm.conf.tw/site/page.aspx?pid=901&sid=1609&lang=en)にて、立川教授が招待講演を行いました。 |
+| 2025.03    | National Taiwan University, Taiwanで開催された[2025 Spring Workshop on Physical and Computational Chemistry](https://www.phys.ncts.ntu.edu.tw/act/actnews/2025-Spring-Workshop-on-Physical-and-Computational-Chemistry-30853389/home)にて、立川教授が招待講演を行いました。 |
+| 2025.02    | 核融合研究所で開催された[学際的量子プロセス研究会 〜原子分子科学，物質科学，数理・情報科学分野の横断〜](https://fugaku100kei.jp/events/colloquium/)にて、立川教授が招待講演を行いました。 |
+| 2025.02    | 第１２回オンラインサロン[スパコンコロキウム](https://fugaku100kei.jp/events/colloquium/)にて、立川教授が「理論計算による重水素化学の羅針盤」に関する招待講演を行いました。 |
+| 2025.01    | 富岳百景第１７回にて、立川教授が[理論計算で重水素化学の羅針盤を作りたい](https://fugaku100kei.jp/mag/17/)に関する招待講演を行いました。 |
+| 2024.12    | 日本女子大学で開催された「1st International Women's Workshop, Advancing Women Researchers in CC Japan Women's Univ.」にて、立川教授が招待講演を行いました。 |
+| 2024.11    | Sydney, Australiaで開催された[JSPSAAA Symposium 2024](https://condensed.physics.usyd.edu.au/symposium/)にて、立川教授が招待講演を行いました。 |
+| 2024.09    | Como, Italyで開催された[Workshop on Positron Studies of Defects 2024 (PSD-24)](https://www.psd-24.polimi.it/)にて、立川教授が招待講演を行いました。|
 | 2024.08.26 | M1の新城君が[INY2024](https://ao.iams.sinica.edu.tw/site/INY2024/)でBEST POSTER AWARDを受賞しました! |
 | 2024.08    | D3の坂上君が[ANSCSE27](https://anscse27.com)でHONORABLE MENTION POSTER AWARDを受賞しました!<br>D1の高桑さんが[ANSCSE27](https://anscse27.com)でTHE BEST POSTER AWARDを受賞しました！<br>M2の紀さんが[ANSCSE27](https://anscse27.com)でTHE 2nd POSTER AWARDを受賞しました！<br>|
 | 2024.07    | 横浜市大で開催された[25th Anniversary Reunion Symposium of Morokuma Group Alumni in Chemistry](https://sites.google.com/view/25arsmorokumaycu/)にて、立川教授が招待講演を行いました。|
