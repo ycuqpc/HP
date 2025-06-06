@@ -1,6 +1,7 @@
 | DATE       | NEWS       |  
 |----------- |--------------------------------------------------------------------------------------------|
 | 2025.06    |M2の足羽さんが高松で開催された[20th International Conference on Positron Annihilation](https://confit.atlas.jp/guide/event/icpa20/top?lang=en)でPoster Awardを受賞しました！|
+| 2025.06    |高松で開催された[20th International Conference on Positron Annihilation](https://confit.atlas.jp/guide/event/icpa20/top?lang=en)にて、立川教授が招待講演を行いました。|
 | 2025.04    | 神戸で開催された[11th Asia Pacific Association of Theoretical and Computational Chemistry (APATCC11)](https://apatcc11.jp/)にて、立川教授が招待講演を行いました。|
 | 2025.04.01 | D2の高桑さんが学振DC2、D1の内藤さんがSPRING事業に採択されました! |
 | 2025.04.01 | D1の内藤君、M1の明珍君、B4の今井君、今野君、内田さん、角坂君、河原君、鈴木君、蘇さん、能條君、丸山君が研究室の新たなメンバーとして加わりました!! |
