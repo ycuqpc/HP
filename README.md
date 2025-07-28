@@ -12,3 +12,4 @@ https://www-user.yokohama-cu.ac.jp/~tachi/
 - [presentation.md](./presentation.md)
 - [proceeding.md](./proceeding.md)
 - [review.md](./review.md)
+- [project.md](./project.md)
