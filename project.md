@@ -5,4 +5,4 @@
   [Link](https://ycuqpc.github.io/JTTTCC10th/)  
   
 - __POSMOL 2025__  
-  [Link](https://www-user.yokohama-cu.ac.jp/~tachi/posmol2025/index.html#Welcome)  
+  [Link](https://www-user.yokohama-cu.ac.jp/~tachi/posmol2025/index.html)  
