@@ -4,3 +4,4 @@
     
 - [__POSMOL 2025__ (外部リンク)](https://www-user.yokohama-cu.ac.jp/~tachi/posmol2025/index.html)
   
+- [__Japan-Thailand international research exchange with state-of-the-art multi-scale quantum hydrogen simulation and data science for green technology__ (外部リンク)](https://www.jst.go.jp/aspire/nexus/y-tec/en/theme/2024/vol014.html)
