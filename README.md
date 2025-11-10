@@ -4,7 +4,7 @@ https://www-user.yokohama-cu.ac.jp/~tachi/
 
 ## トップページ
 
-- [news.md](./news.md)
+- [news_2025.md](./news.md)
 
 ## 業績リスト
 
