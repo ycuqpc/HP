@@ -1,19 +1,19 @@
 ## 2026
 298. Masaaki Araidai, Kazuaki Kuwahata, Masanori Tachikawa, and Tomofumi Tada,
 Physically informed neural network potential for a multi-element system",
-Science and Technology of Advanced Materials: Methods, 6, (2026). DOI: [10.1080/27660400.2026.2637919](https://doi.org/10.1080/27660400.2026.2637919)
+Science and Technology of Advanced Materials: Methods, ***6***, (2026). DOI: [10.1080/27660400.2026.2637919](https://doi.org/10.1080/27660400.2026.2637919)
 
 297. Kazuaki Kuwahata, Shigekazu Ito, and Masanori Tachikawa,
 "Origin of heteroatom substitution effects on hyperfine coupling in muoniated radicals: A path-integral molecular dynamics study",
-J. Chem. Phys., 164, 144302 (2026). DOI: [10.1063/5.0325070](https://doi.org/10.1063/5.0325070)
+J. Chem. Phys., ***164***, 144302 (2026). DOI: [10.1063/5.0325070](https://doi.org/10.1063/5.0325070)
 
 296. Amba Datt Pant, Akihiro Koda, Burkhard Geil, Katsuhiko Ishida, Roshan Pudasaini, Kazuaki Kuwahata, Masanori Tachikawa, Stephen P. Cottrell, Jumpei G. Nakamura, Shoichiro Nishimura, Koichiro Shimomura,
 "Muon Species in Frozen D2O Observed with Zero-field Muon Spin Precession",
-J. Phys. Soc. Jpn., 95, (2026). DOI: [10.7566/JPSJ.95.014603](https://doi.org/10.7566/JPSJ.95.014603)
+J. Phys. Soc. Jpn., ***95***, (2026). DOI: [10.7566/JPSJ.95.014603](https://doi.org/10.7566/JPSJ.95.014603)
 
 295. Kotomi Nishikawa, Hikaru Tanaka, Kazuaki Kuwahata, Masanori Tachikawa, and Taro Udagawa,
 "Microscopic origin of quantum plasticity in small H3+(H2)n (n = 1-3) clusters revealed by path integral molecular dynamics simulations",
-Phys. Chem. Chem. Phys., 28, 8308-8311 (2026). DOI: [10.1039/D6CP00022C](https://doi.org/10.1039/D6CP00022C)
+Phys. Chem. Chem. Phys., ***28***, 8308-8311 (2026). DOI: [10.1039/D6CP00022C](https://doi.org/10.1039/D6CP00022C)
 
 294. Pimjai Pimbaotham, John K. Villanueva, Siriporn Jungsuttiwong, Masanori Tachikawa, and Robert K. Szilagyi,
 "Connecting the mechanistic steps of cyclic dipeptide formation by a proton-transfer network: pH, temperature, pressure, and nuclear quantum effects",
@@ -21,48 +21,48 @@ Org. Biomol. Chem., (2026) in press. DOI: [10.1039/D5OB01815C](https://doi.org/1
 
 293. Tomomi Shimazaki and Masanori Tachikawa,
 "Theoretical study on the analyzability of modified convex regression for radical reaction",
-Phys. Chem. Chem. Phys., 28, 2499-2507 (2026). DOI: [10.1039/D5CP03946K](https://doi.org/10.1039/D5CP03946K)
+Phys. Chem. Chem. Phys., ***28***, 2499-2507 (2026). DOI: [10.1039/D5CP03946K](https://doi.org/10.1039/D5CP03946K)
 
 292. Yuu Ishii, Kazuaki Kuwahata, Tomomi Shimazaki, and Masanori Tachikawa,
 "Theoretical analysis of H/D isotope effect in K3H(SO4)2 and its influence on phase transition temperature",
-Phys. Chem. Chem. Phys., 28, 2788-2793 (2026). DOI: [10.1039/D5CP02885J](https://doi.org/10.1039/D5CP02885J)
+Phys. Chem. Chem. Phys., ***28***, 2788-2793 (2026). DOI: [10.1039/D5CP02885J](https://doi.org/10.1039/D5CP02885J)
 
 ## 2025
 291. Nuttapon Yodsin, Taro Udagawa, Rathawat Daengngern, Siriporn Jungsutthiwong, and Masanori Tachikawa,
 "Unraveling H2 dissociation in CO2 hydrogenation on frustrated Lewis pair-functionalized UiO-67: DFT and nuclear quantum effects ",
-Int. J. Hydrogen Energy, 195, 152499 (2025). DOI: [10.1016/j.ijhydene.2025.152499](https://doi.org/10.1016/j.ijhydene.2025.152499)
+Int. J. Hydrogen Energy, ***195***, 152499 (2025). DOI: [10.1016/j.ijhydene.2025.152499](https://doi.org/10.1016/j.ijhydene.2025.152499)
 
 290. Nuttapon Yodsin, Pimjai Pimbaotham, Thana Maihom, Rathawat Daengngern, Masanori Tachikawa, Siriporn Jungsuttiwong, and Yuwanda Injongkol,
 "Unlocking efficient CO2-to-methanol conversion on frustrated Lewis pair-functionalized UiO-67: A synergistic approach using DFT and SISSO",
-J. Catalysis, 450, 116275-116275 (2025). DOI: [10.1016/j.jcat.2025.116275](https://doi.org/10.1016/j.jcat.2025.116275)
+J. Catalysis, ***450***, 116275-116275 (2025). DOI: [10.1016/j.jcat.2025.116275](https://doi.org/10.1016/j.jcat.2025.116275)
 
 289. Emi Kino, Makito Takagi, Masanori Tachikawa, Koichi Yamashita, and Tomomi Shimazaki,
 "Theoretical study of Lewis base passivation of p-type surface defects in I-Br mixed-halide tin perovskites",
-J. Chem. Phys., 163, 104703 (2025). DOI: [10.1063/5.0285545](https://doi.org/10.1063/5.0285545)
+J. Chem. Phys., ***163***, 104703 (2025). DOI: [10.1063/5.0285545](https://doi.org/10.1063/5.0285545)
 
 288. Miu Ashiba, Daisuke Yoshida, Yukiumi Kita, Tomomi Shimazaki, Toshiyuki Takayanagi, and Masanori Tachikawa,
 "Effects of Halogenations and Conformational Isomers on Positron Binding in Halogenated Hydrocarbons",
-J. Comput. Chem., 46, e70217 (2025). DOI: [10.1002/jcc.70217](https://doi.org/10.1002/jcc.70217)
+J. Comput. Chem., ***46***, e70217 (2025). DOI: [10.1002/jcc.70217](https://doi.org/10.1002/jcc.70217)
 
 287. Hikaru Tanaka, Kazuaki Kuwahata, Masanori Tachikawa, and Taro Udagawa,
 "Nuclear quantum and H/D isotope effects on hydrogen-bond symmetrization in lithium hydroxide crystals at high pressure",
-J. Chem. Phys., 163, 084501 (2025). DOI: [10.1063/5.0276067](https://doi.org/10.1063/5.0276067)
+J. Chem. Phys., ***163***, 084501 (2025). DOI: [10.1063/5.0276067](https://doi.org/10.1063/5.0276067)
 
 286. Hiroyuki S. Kato, Riku Muneyasu, Tomoko Fujino, Akira Ueda, Yusuke Kanematsu, Masanori Tachikawa, Jun Yoshinobu, and Hatsumi Mori,
 "Tunneling Conductivity Switching by Reversible Electric-Field-Induced Proton Transfer for a Hydrogen-Bonding Heterobilayer Film",
-Nano Lett., 25, 11116-11124 (2025). DOI: [10.1021/acs.nanolett.5c02455](https://doi.org/10.1021/acs.nanolett.5c02455)
+Nano Lett., ***25***, 11116-11124 (2025). DOI: [10.1021/acs.nanolett.5c02455](https://doi.org/10.1021/acs.nanolett.5c02455)
 
 285. Daisuke Yoshida, Toshiyuki Takayanagi, Yukiumi Kita, Tomomi Shimazaki, and Masanori Tachikawa,
 "Applications of the density functional method combined with the electron-positron correlation-polarization potential to positron binding to hydrocarbons and water clusters",
-Phys. Chem. Chem. Phys., 27, 12171-12181 (2025). DOI: [10.1039/d5cp00893j](https://doi.org/10.1039/d5cp00893j)
+Phys. Chem. Chem. Phys., ***27***, 12171-12181 (2025). DOI: [10.1039/d5cp00893j](https://doi.org/10.1039/d5cp00893j)
 
 284. Masaki Nobuoka, Shugo Sakaguchi, Yusuke Tsutsui, Akie Taguchi, Makito Takagi, Tomomi Shimazaki, Masanori Tachikawa, Akira Idesaki, Tetsuya Yamaki, Devesh Kumar Avasthi, Merry Gupta, Ramcharan Meena, Ambuj Tripathi, and Shu Seki,
 "Metal-Free Raman Sensing Platforms of Organic Nanowire Arrays Produced by High Energy Charged Particles",
-Advanced Sensor Research, 4, e00042 (2025). DOI: [10.1002/adsr.202500042](https://doi.org/10.1002/adsr.202500042)
+Advanced Sensor Research, ***4***, e00042 (2025). DOI: [10.1002/adsr.202500042](https://doi.org/10.1002/adsr.202500042)
 
 283. Zhuowei Li, Rajendra Prasad Paitandi, Yusuke Tsutsui, Wakana Matsuda, Masaki Nobuoka, Bin Chen, Samrat Ghosh, Takayuki Tanaka, Masayuki Suda, Tong Zhu, Hiroshi Kageyama, Yoshihiro Miyake, Hiroshi Shinokubo, Makito Takagi, Tomomi Shimazaki, Masanori Tachikawa, Katsuaki Suzuki, Hironori Kaji, Yasunobu Ando, Takahiro Ezaki, and Shu Seki,
 "Rolling two-dimensional covalent organic framework (COF) sheets into one-dimensional electronic and proton-conductive nanotubes",
-Proc. Natl. Acad. Sci., 122, e2424314122 (2025). DOI: [10.1073/pnas.2424314122](https://doi.org/10.1073/pnas.2424314122)
+Proc. Natl. Acad. Sci., ***122***, e2424314122 (2025). DOI: [10.1073/pnas.2424314122](https://doi.org/10.1073/pnas.2424314122)
 
 282. Emi Kino, Makito Takagi, Takumi Naito, Masanori Tachikawa, Koichi Yamashita, and Tomomi Shimazaki,
 "A theoretical study of the molecular passivation of p-/n-type defects on tin- and germanium-mixed perovskite surfaces using Lewis base/acid",
