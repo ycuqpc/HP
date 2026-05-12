@@ -1,4 +1,150 @@
+## 2025年度
+
+### 日本化学会 第106春季年会(2026) (2026年3月)
+- ○桑畑 和明, 小清水 初花, 大場 優生, 立川 仁典 (口頭発表)
+ 「経路積分法を用いた鉄合金中における水素原子拡散の理論研究」
+- ○足羽 美海, 桑畑 和明, 住吉 吉英 (口頭発表)
+ 「希ガス原子-2原子ラジカルアニオン錯体の分子間相互作用に関する高精度計算」
+- ○河原 虎太郎, 高木 牧人, 立川 仁典, 山下 晃一, 島崎 智実 (口頭発表)
+ 「Sr系合金ペロブスカイト表面における欠陥準位に対する理論的研究」
+- ○内田 菜那子, 桑畑 和明, 島崎 智実, 立川 仁典 (ポスター発表)
+ 「ミューオニウム化エチルラジカルにおける超微細結合定数の温度依存性に対する理論的解析」
+
+### The International Chemical Congress of Pacific Basin Societies 2025 (Pacifichem2025) (Honolulu, Hawaii on 15-20 December)
+- Masanori Tachikawa (Invited lecture)
+ "Quantum Monte Carlo, Quantum Information and Machine Learning"
+
+### Materials Research Meeting 2025 (MRM2025) (Yokohama, Japan on 8-13 December)
+- <ins>Tomomi Shimazaki</ins>, Makito Takagi, Kenichiro Saita, Masayuki Kimura (Oral contribution)
+ "Theoretical study on proton transfer with quantum nuclear effect"
+- <ins>Makito Takagi</ins>, Naito Takumi, Emi Kino, Masanori Tachikawa, Koichi Yamashita, Tomomi Shimazaki (Oral contribution)
+ "Theoretical study of the molecular passivation effect on Sn-based and mixed perovskite surface defects"
+- <ins>Albert Iskandarov</ins>, Naohiko Ikuma, Mamoru Hosoya, Tomomi Shimazaki, Kouichi Misumi, Masanori Tachikawa (Poster)
+ "Capturing mechanism for defects of anti-reflective coating by polymer membranes: atomistic modelling study"
+
+### 第25回分子分光研究会 (2025年11月)
+- 〇足羽 美海, 吉田 大輔, 北 幸海, 島崎 智実, 高柳 敏幸, 立川 仁典 (口頭発表)
+ 「ハロゲン化炭化水素の陽電子化合物に関する理論的解析」
+
+### 日本接着学会東北・北海道支部講演会2025-1 (2025年11月)
+- 立川 仁典 (招待講演)
+ 「理論計算による重水素化学の羅針盤」
+
+### 日本コンピュータ化学会 2025年秋季年会 (2025年11月)
+- 〇内藤 拓海, 高木 牧人, 立川 仁典, 山下 晃一, 島崎 智実 (口頭発表)
+ 「第一原理計算に基づいたスズペロブスカイト表面欠陥に関する理論的研究」
+- 〇桑畑 和明, 大場 優生, 立川仁典 (口頭発表)
+ 「経路積分分子動力学と Matlantis を組み合わせた鉄合金中の水素拡散シミュレーション」
+- 〇新城 涼太, 高木 牧人, 立川 仁典, 山下 晃一, 島崎 智実 (ポスター発表)
+ 「Sn 系ペロブスカイト太陽電池材料の欠陥準位除去に向けたパッシベーション分子の系統的理論研究」
+
+### The 9th Thailand International Conference on Nanotechnology (NanoThailand2025) (Bangkok, Thailand, on 3-5 November)
+- Kazuki Tatenuma, Makito Takagi, Tomomi Shimazaki, Masanori Tachikawa (Invited lecture)
+ "Excess proton/deuteron in light/heavy water solvent using path integral molecular dynamics simulation"
+
+### 5th International Conference on Carbon Chemistry & Materials (Carbon-2025) (Rome, Italy, on 13-14 October)
+- Masanori Tachikawa (Invited lecture)
+ "Path Integral Molecular Dynamics Simulation for H/D Isotope Effect in Protonated/Deuterated Aqueous Solution"
+
+### 10th International Symposium of Quantum Beam Science at Ibaraki University (ISQBS2025) (at Ibaraki University, Mito, Ibaraki, on 1st October)
+- Masanori Tachikawa (Invited lecture)
+ "Deuterium Chemistry with our new Quantum Chemistry"
+
+### 第19回分子科学討論会 (2025年9月)
+- 紀 慧美，内藤 拓海，高木 牧人，立川 仁典，山下 晃一，○島崎 智実 (口頭発表)
+ 「分子パッシベーションによるSn系ペロブスカイト表面欠陥準位除去に関する理論的研究」
+- ○足羽 美海，吉田 大輔，北 幸海，島崎 智実，高柳 敏幸，立川 仁典 (ポスター発表)
+ 「アルカンの陽電子結合に対する異性体効果の理論的解明」
+- 山下 晃一 (ポスター発表)
+ 「エネルギー変換材料としての開殻金属ポルフィリンの励起状態構造と緩和ダイナミクスの理論解析」
+- ○高木 牧人，島崎 智実，小林 理，石元 孝佳，立川 仁典 (ポスター発表)
+ 「アクリレートおよびメタクリレートのラジカル反応に関する理論的研究と機械学習による反応障壁予測」
+- ○藤原 昂，高木 牧人，立川 仁典，山下 晃一，島崎 智実 (ポスター発表)
+ 「リチウムクラスター上での窒素分子の解離反応に関する理論的研究」
+
+### シンポジウム「化学反応経路探索のニューフロンティア2025」 (2025年9月)
+- ○高木牧人，島崎智実，小林理，石元孝佳，立川 仁典 (ポスター発表) 「アクリレートおよびメタクリレートモノマーのラジカル反応に関する理論的研究と機械学習による反応障壁予測」
+- 斉田 謙一郎 (招待講演) 「励起状態ダイナミクス計算によるフォトエキサイトニクス」
+
+### IAMS-NTNU-YCU Autumn Workshop 2025 (INY2025) (at National Taiwan University, Taipei, Taiwan on 27 August)
+- <ins>Miu Ashiba</ins>, Daisuke Yoshida, Yukiumi Kita, Tomomi Shimazaki, Toshiyuki Takayanagi, Masanori Tachikawa (Oral contribution)
+ "Theoretical Analysis of Positron Binding to Hydrocarbons"
+
+### XXII International Workshop on Low-Energy Positron and Positronium Physics and XXIV International Symposium on Electron-Molecule Collisions and Swarms (POSMOL2025) (Shimane, Japan on 7-10 August)
+- Daisuke Yoshida (Oral contribution)
+ "Positron binding properties in cage-structured water clusters"
+- Miu Ashiba (Poster)
+ "Positron affinity in hydrocarbons and halogenated hydrocarbons: A theoretical analysis of its relationship with physical properties"
+- Haruto Baba (Poster)
+ "Theoretical study on positron-molecular complexes for graphene-like molecules"
+- Takuto Nakazono (Poster)
+ "Theoretical analysis of positronic compounds of halogen molecular divalent anions"
+
+### 34th International Conference on Photonic, Electronic, and Atomic Collisions (ICPEAC 2025)
+- Masanori Tachikawa (Poster)
+ "Quantum Monte Carlo study on positron binding to atomic anion dimers"
+
+### 27回理論化学討論会 (2025年7月)
+- ○桑畑 和明, 立川 仁典, 大場 優生 (口頭発表)
+ 「鉄合金中における水素原子拡散の量子効果」
+- ○高木 牧人,内藤 拓海, 紀 慧美, 立川 仁典, 山下 晃一, 島崎 智実 (口頭発表)
+ 「Sn 系ペロブスカイト表面欠陥へのルイス塩基/酸のパッシベーション効果に関する理論的研究」
+
+### 15th European Conference on Atoms Molecules and Photons (ECAMP15) (Innsbruck, Austria, on June 30 - July 4)
+- Masanori Tachikawa (Poster)
+ "Quantum Monte Carlo study on positron binding to atomic anion dimers"
+
+### 20th Asian Chemical Congress (20ACC) (Bangkok, Thailand, on June 23-27, 2025)
+- Masanori Tachikawa (Invited lecture)
+ "Excess proton/deuteron in light/heavy water solvent using path integral molecular dynamics simulation"
+
+### Numerical Methods in Quantum Chemistry 2025 (NMQC2025) (Berlin, Germany, on 18-20 June)
+- Masanori Tachikawa (Invited lecture)
+ "Quantum Monte Carlo calculation on the effect of molecular vibrations for the positronbinding to polyatomic molecules"
+
+### The 20th International Conference on Positron Annihilation (ICPA20) (Takamatsu, Kagawa, on 1-6 June)
+- Miu Ashiba (Poster)
+ "Theoretical Analysis of Isomers of Positron-Attached Halogenated Hydrocarbon Molecules"
+- Masanori Tachikawa (Invited lecture)
+ "Quantum Monte Carlo Study on Positron Binding to Atomic Anion Dimers"
+
+### 10th Japan-Taiwan-Thai workshop on Theoretical and Computational Chemistry (JTTTCC2025) (at Yokohama City University, Yokohama, Kanagawa, Japan, on 31 May)
+- Hiroaki Oeda (Oral contribution)
+ "In silico analysis of large-scale conformational changes in Type51 R-body"
+- Takumi Naito (Oral contribution)
+ "Theoretical study of the molecular passivation effect of Lewis base/acid on lead-free tin perovskite surface defects"
+- Miu Ashiba (Oral contribution)
+ "Effect of Isomers of Halogenated Hydrocarbons on Positron Compounds"
+
+### The Molecular Quantum Mechanics Conferences 2025 MQM2025 (Kyoto, Japan, on 23-28 May)
+- Shumpei Ito, Daisuke Yoshida, Yukiumi Kita, Tomomi Shimazaki, and <ins>Masanori Tachikawa</ins> (Poster)
+ "Quantum Monte Carlo study on positron binding to atomic anion dimers"
+
+### 11th Conference of the Asia-Pacific Association of Theoretical and Computational Chemists (APATCC11) (Kobe, Hyogo, Japan, on 21-25 April)
+- Miu Ashiba (Poster)
+ "Isomer effect on the positron bindings to halogenated hydrocarbons"
+- Masanori Tachikawa (Invited lecture)
+ "Excess proton/deuteron in light/heavy water solvent using path integral molecular dynamics simulation"
+
 ## 2024年度
+
+### 計算物理春の学校 2025 (2025年3月)
+- 足羽 美海 (ポスター発表)
+ 「ハロゲン化炭化水素の異性体に関する陽電子化合物の系統的解析」
+- 大野 周平 (ポスター発表)
+ 「Google ColabでJuliaをはじめよう！」
+
+### 2025 Chemistry National Meeting (CNM2025) (at Providence University, Taichung, Taiwan, on 7-9 March)
+- Masanori Tachikawa (Invited lecture)
+ "Excess Proton/Deuteron in Light/Heavy Water Solvent Using Path Integral Molecular Dynamics Simulation"
+
+### 2025 Spring Workshop on Physical and Computational Chemistry (at National Taiwan University, Taipei, Taiwan, on 7 March)
+- Masanori Tachikawa (Invited lecture)
+ "Quantum chemical calculation for exotic molecules"
+
+### IPEROP25 (at Kyoto University, Kyoto, Japan, on 20-21 January)
+- <ins>Emi Kino</ins>, Makito Takagi, Takumi Naito, Masanori Tachikawa, Koichi Yamashita, Tomomi Shimazaki (Poster)
+ "Theoretical Study of Lewis Base/Acid Passivation Effects for Surface Defects in SnGe-Mixed Perovskite"
 
 ### INY2024 (at National Taiwan University, Taipei, Taiwan, on 26 August -3 2024)
 - Mio Takakuwa (Oral contribution)
