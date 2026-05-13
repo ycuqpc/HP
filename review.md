@@ -1,3 +1,5 @@
+27. 桑畑和明，立川仁典，「経路積分法で解き明かすミュオニウム化分子における量子効果の重要性」，めそん，No.63, 41–45 (2026). (in Japanese)
+
 26. 吉田大輔，立川仁典,
     「分子クラスターへの陽電子束縛機構に関する理論研究 (Theoretical investigation of positron binding to molecular clusters)」
     陽電子科学, 21, 19-27 (2023). (in Japanese)
