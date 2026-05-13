@@ -1,76 +1,96 @@
 ## 2026
-298. Masaaki Araidai, Kazuaki Kuwahata, Masanori Tachikawa, and Tomofumi Tada,
+303. Masaaki Araidai, Kazuaki Kuwahata, Masanori Tachikawa, and Tomofumi Tada,
 Physically informed neural network potential for a multi-element system",
 Science and Technology of Advanced Materials: Methods, ***6***, (2026). DOI: [10.1080/27660400.2026.2637919](https://doi.org/10.1080/27660400.2026.2637919)
 
-297. Kazuaki Kuwahata, Shigekazu Ito, and Masanori Tachikawa,
+302. Kazuaki Kuwahata, Shigekazu Ito, and Masanori Tachikawa,
 "Origin of heteroatom substitution effects on hyperfine coupling in muoniated radicals: A path-integral molecular dynamics study",
 J. Chem. Phys., ***164***, 144302 (2026). DOI: [10.1063/5.0325070](https://doi.org/10.1063/5.0325070)
 
-296. Amba Datt Pant, Akihiro Koda, Burkhard Geil, Katsuhiko Ishida, Roshan Pudasaini, Kazuaki Kuwahata, Masanori Tachikawa, Stephen P. Cottrell, Jumpei G. Nakamura, Shoichiro Nishimura, Koichiro Shimomura,
+301. Masanari Natsume, Hikaru Tanaka, Kazuaki Kuwahata, Masanori Tachikawa, Taro Udagawa,
+     "Nuclear quantum effects on proton sharing in the deprotonated formic acid dimer anion revealed by path-integral molecular dynamics simulations",
+     _Struct. Chem._, 1-10 (2026). DOI: [10.1007/s11224-026-02761-1](https://doi.org/10.1007/s11224-026-02761-1)
+
+300. Amba Datt Pant, Akihiro Koda, Burkhard Geil, Katsuhiko Ishida, Roshan Pudasaini, Kazuaki Kuwahata, Masanori Tachikawa, Stephen P. Cottrell, Jumpei G. Nakamura, Shoichiro Nishimura, Koichiro Shimomura,
 "Muon Species in Frozen D2O Observed with Zero-field Muon Spin Precession",
 J. Phys. Soc. Jpn., ***95***, (2026). DOI: [10.7566/JPSJ.95.014603](https://doi.org/10.7566/JPSJ.95.014603)
 
-295. Kotomi Nishikawa, Hikaru Tanaka, Kazuaki Kuwahata, Masanori Tachikawa, and Taro Udagawa,
+299. Kotomi Nishikawa, Hikaru Tanaka, Kazuaki Kuwahata, Masanori Tachikawa, and Taro Udagawa,
 "Microscopic origin of quantum plasticity in small H3+(H2)n (n = 1-3) clusters revealed by path integral molecular dynamics simulations",
 Phys. Chem. Chem. Phys., ***28***, 8308-8311 (2026). DOI: [10.1039/D6CP00022C](https://doi.org/10.1039/D6CP00022C)
 
-294. Pimjai Pimbaotham, John K. Villanueva, Siriporn Jungsuttiwong, Masanori Tachikawa, and Robert K. Szilagyi,
+298. Pimjai Pimbaotham, John K. Villanueva, Siriporn Jungsuttiwong, Masanori Tachikawa, and Robert K. Szilagyi,
 "Connecting the mechanistic steps of cyclic dipeptide formation by a proton-transfer network: pH, temperature, pressure, and nuclear quantum effects",
 Org. Biomol. Chem., (2026) in press. DOI: [10.1039/D5OB01815C](https://doi.org/10.1039/D5OB01815C)
 
-293. Tomomi Shimazaki and Masanori Tachikawa,
+297. Tomomi Shimazaki and Masanori Tachikawa,
 "Theoretical study on the analyzability of modified convex regression for radical reaction",
 Phys. Chem. Chem. Phys., ***28***, 2499-2507 (2026). DOI: [10.1039/D5CP03946K](https://doi.org/10.1039/D5CP03946K)
 
-292. Yuu Ishii, Kazuaki Kuwahata, Tomomi Shimazaki, and Masanori Tachikawa,
+296. Yuu Ishii, Kazuaki Kuwahata, Tomomi Shimazaki, and Masanori Tachikawa,
 "Theoretical analysis of H/D isotope effect in K3H(SO4)2 and its influence on phase transition temperature",
 Phys. Chem. Chem. Phys., ***28***, 2788-2793 (2026). DOI: [10.1039/D5CP02885J](https://doi.org/10.1039/D5CP02885J)
 
 ## 2025
-291. Nuttapon Yodsin, Taro Udagawa, Rathawat Daengngern, Siriporn Jungsutthiwong, and Masanori Tachikawa,
+295. 西川 琴美, 田中 輝, 桑畑 和明, 立川 仁典, 宇田川 太郎,
+     「PIMD法によるBiuretおよびBiguanideの分子内水素結合構造に対する原子核量子効果の解析」,
+     _J. Comput. Chem. Jpn._, **24**, 72-73 (2025) DOI: [10.2477/jccj.2025-0011](https://doi.org/10.2477/jccj.2025-0011)
+
+294. Nuttapon Yodsin, Taro Udagawa, Rathawat Daengngern, Siriporn Jungsutthiwong, and Masanori Tachikawa,
 "Unraveling H2 dissociation in CO2 hydrogenation on frustrated Lewis pair-functionalized UiO-67: DFT and nuclear quantum effects ",
 Int. J. Hydrogen Energy, ***195***, 152499 (2025). DOI: [10.1016/j.ijhydene.2025.152499](https://doi.org/10.1016/j.ijhydene.2025.152499)
 
-290. Nuttapon Yodsin, Pimjai Pimbaotham, Thana Maihom, Rathawat Daengngern, Masanori Tachikawa, Siriporn Jungsuttiwong, and Yuwanda Injongkol,
+293. Nuttapon Yodsin, Pimjai Pimbaotham, Thana Maihom, Rathawat Daengngern, Masanori Tachikawa, Siriporn Jungsuttiwong, and Yuwanda Injongkol,
 "Unlocking efficient CO2-to-methanol conversion on frustrated Lewis pair-functionalized UiO-67: A synergistic approach using DFT and SISSO",
 J. Catalysis, ***450***, 116275-116275 (2025). DOI: [10.1016/j.jcat.2025.116275](https://doi.org/10.1016/j.jcat.2025.116275)
 
-289. Emi Kino, Makito Takagi, Masanori Tachikawa, Koichi Yamashita, and Tomomi Shimazaki,
+292. Taro Udagawa, Hinata Nagasaka, Yusuke Kanematsu, Takayoshi Ishimoto, Masanori Tachikawa,
+     "A multi-component density functional study on quantum effects of hydrogen nuclei on ground state and excited state proton transfer reactions in 7-hydroxyquinoline",
+     _Phys. Chem. Chem. Phys._, **27**, 20493-20499 (2025). DOI: [10.1039/D5CP02666K](https://doi.org/10.1039/D5CP02666K)
+
+291. Emi Kino, Makito Takagi, Masanori Tachikawa, Koichi Yamashita, and Tomomi Shimazaki,
 "Theoretical study of Lewis base passivation of p-type surface defects in I-Br mixed-halide tin perovskites",
 J. Chem. Phys., ***163***, 104703 (2025). DOI: [10.1063/5.0285545](https://doi.org/10.1063/5.0285545)
 
-288. Miu Ashiba, Daisuke Yoshida, Yukiumi Kita, Tomomi Shimazaki, Toshiyuki Takayanagi, and Masanori Tachikawa,
+290. Kotomi Nishikawa, Hikaru Tanaka, Kazuaki Kuwahata, Masanori Tachikawa, Taro Udagawa,
+     "Nuclear quantum effects on intramolecular hydrogen bonds and backbone structures in biuret analogues",
+     _Phys. Chem. Chem. Phys._, **27**, 20474-20483 (2025). DOI: [10.1039/D5CP02587G](https://doi.org/10.1039/D5CP02587G)
+
+289. Miu Ashiba, Daisuke Yoshida, Yukiumi Kita, Tomomi Shimazaki, Toshiyuki Takayanagi, and Masanori Tachikawa,
 "Effects of Halogenations and Conformational Isomers on Positron Binding in Halogenated Hydrocarbons",
 J. Comput. Chem., ***46***, e70217 (2025). DOI: [10.1002/jcc.70217](https://doi.org/10.1002/jcc.70217)
 
-287. Hikaru Tanaka, Kazuaki Kuwahata, Masanori Tachikawa, and Taro Udagawa,
+288. Hikaru Tanaka, Kazuaki Kuwahata, Masanori Tachikawa, and Taro Udagawa,
 "Nuclear quantum and H/D isotope effects on hydrogen-bond symmetrization in lithium hydroxide crystals at high pressure",
 J. Chem. Phys., ***163***, 084501 (2025). DOI: [10.1063/5.0276067](https://doi.org/10.1063/5.0276067)
 
-286. Hiroyuki S. Kato, Riku Muneyasu, Tomoko Fujino, Akira Ueda, Yusuke Kanematsu, Masanori Tachikawa, Jun Yoshinobu, and Hatsumi Mori,
+287. Hiroyuki S. Kato, Riku Muneyasu, Tomoko Fujino, Akira Ueda, Yusuke Kanematsu, Masanori Tachikawa, Jun Yoshinobu, and Hatsumi Mori,
 "Tunneling Conductivity Switching by Reversible Electric-Field-Induced Proton Transfer for a Hydrogen-Bonding Heterobilayer Film",
 Nano Lett., ***25***, 11116-11124 (2025). DOI: [10.1021/acs.nanolett.5c02455](https://doi.org/10.1021/acs.nanolett.5c02455)
 
-285. Daisuke Yoshida, Toshiyuki Takayanagi, Yukiumi Kita, Tomomi Shimazaki, and Masanori Tachikawa,
+286. Daisuke Yoshida, Toshiyuki Takayanagi, Yukiumi Kita, Tomomi Shimazaki, and Masanori Tachikawa,
 "Applications of the density functional method combined with the electron-positron correlation-polarization potential to positron binding to hydrocarbons and water clusters",
 Phys. Chem. Chem. Phys., ***27***, 12171-12181 (2025). DOI: [10.1039/d5cp00893j](https://doi.org/10.1039/d5cp00893j)
 
-284. Masaki Nobuoka, Shugo Sakaguchi, Yusuke Tsutsui, Akie Taguchi, Makito Takagi, Tomomi Shimazaki, Masanori Tachikawa, Akira Idesaki, Tetsuya Yamaki, Devesh Kumar Avasthi, Merry Gupta, Ramcharan Meena, Ambuj Tripathi, and Shu Seki,
+285. Masaki Nobuoka, Shugo Sakaguchi, Yusuke Tsutsui, Akie Taguchi, Makito Takagi, Tomomi Shimazaki, Masanori Tachikawa, Akira Idesaki, Tetsuya Yamaki, Devesh Kumar Avasthi, Merry Gupta, Ramcharan Meena, Ambuj Tripathi, and Shu Seki,
 "Metal-Free Raman Sensing Platforms of Organic Nanowire Arrays Produced by High Energy Charged Particles",
 Advanced Sensor Research, ***4***, e00042 (2025). DOI: [10.1002/adsr.202500042](https://doi.org/10.1002/adsr.202500042)
 
-283. Zhuowei Li, Rajendra Prasad Paitandi, Yusuke Tsutsui, Wakana Matsuda, Masaki Nobuoka, Bin Chen, Samrat Ghosh, Takayuki Tanaka, Masayuki Suda, Tong Zhu, Hiroshi Kageyama, Yoshihiro Miyake, Hiroshi Shinokubo, Makito Takagi, Tomomi Shimazaki, Masanori Tachikawa, Katsuaki Suzuki, Hironori Kaji, Yasunobu Ando, Takahiro Ezaki, and Shu Seki,
+284. Zhuowei Li, Rajendra Prasad Paitandi, Yusuke Tsutsui, Wakana Matsuda, Masaki Nobuoka, Bin Chen, Samrat Ghosh, Takayuki Tanaka, Masayuki Suda, Tong Zhu, Hiroshi Kageyama, Yoshihiro Miyake, Hiroshi Shinokubo, Makito Takagi, Tomomi Shimazaki, Masanori Tachikawa, Katsuaki Suzuki, Hironori Kaji, Yasunobu Ando, Takahiro Ezaki, and Shu Seki,
 "Rolling two-dimensional covalent organic framework (COF) sheets into one-dimensional electronic and proton-conductive nanotubes",
 Proc. Natl. Acad. Sci., ***122***, e2424314122 (2025). DOI: [10.1073/pnas.2424314122](https://doi.org/10.1073/pnas.2424314122)
 
-282. Emi Kino, Makito Takagi, Takumi Naito, Masanori Tachikawa, Koichi Yamashita, and Tomomi Shimazaki,
+283. Emi Kino, Makito Takagi, Takumi Naito, Masanori Tachikawa, Koichi Yamashita, and Tomomi Shimazaki,
 "A theoretical study of the molecular passivation of p-/n-type defects on tin- and germanium-mixed perovskite surfaces using Lewis base/acid",
 Phys. Chem. Chem. Phys., **27**, 7429-7439 (2025). DOI: [10.1039/D4CP03817G](https://doi.org/10.1039/D4CP03817G)
 
-281. Tatsuhiro Murakami, Haruki Ota, Shoto Nakagawa, Kunihiro Okada, Masanori Tachikawa, and Toshiyuki Takayanagi,
+282. Tatsuhiro Murakami, Haruki Ota, Shoto Nakagawa, Kunihiro Okada, Masanori Tachikawa, and Toshiyuki Takayanagi,
 "Attractive Force-Induced Isotope Effects through Ring-Polymer Molecular Dynamics Simulations for the Barrierless Reaction between HNCO and H3+ Isotopologues: H3+, H2D+, HD2+, and D3+",
 J. Phys. Chem. A, **129**, 2308-2316 (2025). DOI: [10.1021/acs.jpca.4c08648](https://doi.org/10.1021/acs.jpca.4c08648)
+
+281. Mana Inoue, Takayoshi Ishimoto, David Samuel Rivera Rocabado, Taro Udagawa*, Masanori Tachikawa, Masaaki Baba, Yusuke Kanematsu,
+     "Applicability of multicomponent quantum mechanical calculations for H/D isotope effects in electronic absorption spectra",
+     _Chem. Lett._, **54**, upaf031 (2025). DOI: [10.1093/chemle/upaf031](https://doi.org/10.1093/chemle/upaf031)
 
 280. Hiroki Sakagami, Makito Takagi, Takayoshi Ishimoto, Tomomi Shimazaki, and Masanori Tachikawa,
 "Development of Hessian calculation using the combined plane wave and localized basis sets method and its application to adsorption of a water molecule on Pt(111) surface",
@@ -154,7 +174,7 @@ J. Phys. Chem. C, **128**, 10643-10649 (2024). DOI: [10.1021/acs.jpcc.4c01525](h
      "Location of the Shared Proton in Proton-Bound Dimer Compound of Hydrogen Sulfate and Formate: Path Integral Molecular Dynamics Study",
      _J. Phys. Chem. A_, **128**, 2103-2110 (2024). (Cover Image) DOI: [10.1021/acs.jpca.4c00239](https://doi.org/10.1021/acs.jpca.4c00239)
 
-260.Kazuaki Kuwahata, Yukio Kawashima, Atsushi Fukushima, Masanori Tachikawa, and Miyako Kusano,
+260. Kazuaki Kuwahata, Yukio Kawashima, Atsushi Fukushima, Masanori Tachikawa, and Miyako Kusano,
 "Dependence of Substituents on UV-vis Spectra and Solvent Effect of Anthocyanins by Quantum Chemical Approach",
 J. Comput. Chem. Jpn., **10**, 2023-0045 (7 pages) (2024). DOI: [10.2477/jccjie.2023-0045](https://doi.org/10.2477/jccjie.2023-0045)
 
