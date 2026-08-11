@@ -1,19 +1,29 @@
 ## 2026
+305. Go Fujihara, Makito Takagi, Masanori Tachikawa, Koichi Yamashita, and Tomomi Shimazaki,
+     "Theoretical investigation of lithium-catalyzed N–N bond cleavage reactions",
+     *Chem. Phys. Lett.*, ***897***, 142972 (2026). DOI: [10.1016/j.cplett.2026.142972](https://doi.org/10.1016/j.cplett.2026.142972)
+
+304. Madhurima Giri, Rajendra Prasad Paitandi, W. Ryan Osterloh, Yun Hee Koo, Yuta Sakurai, Katsuaki Suzuki, Hironori Kaji, Makito Takagi,
+     Tomomi Shimazaki, Masanori Tachikawa, Takayuki Tanaka, and Shu Seki,
+     "Topological Control of 2-Dimensional Covalent Organic Frameworks: Electronic Conductivity Modulation via Spin-Coupled Bipolaron Delocalization",
+     *Chem. Mater.*, ***38***, 5221–5230 (2026). DOI: [10.1021/acs.chemmater.6c00608](https://doi.org/10.1021/acs.chemmater.6c00608)
+
 303. Masaaki Araidai, Kazuaki Kuwahata, Masanori Tachikawa, and Tomofumi Tada,
-Physically informed neural network potential for a multi-element system",
-Science and Technology of Advanced Materials: Methods, ***6***, (2026). DOI: [10.1080/27660400.2026.2637919](https://doi.org/10.1080/27660400.2026.2637919)
+     Physically informed neural network potential for a multi-element system",
+     Science and Technology of Advanced Materials: Methods, ***6***, (2026). DOI: [10.1080/27660400.2026.2637919](https://doi.org/10.1080/27660400.2026.2637919)
 
 302. Kazuaki Kuwahata, Shigekazu Ito, and Masanori Tachikawa,
-"Origin of heteroatom substitution effects on hyperfine coupling in muoniated radicals: A path-integral molecular dynamics study",
-J. Chem. Phys., ***164***, 144302 (2026). DOI: [10.1063/5.0325070](https://doi.org/10.1063/5.0325070)
+     "Origin of heteroatom substitution effects on hyperfine coupling in muoniated radicals: A path-integral molecular dynamics study",
+     J. Chem. Phys., ***164***, 144302 (2026). DOI: [10.1063/5.0325070](https://doi.org/10.1063/5.0325070)
 
 301. Masanari Natsume, Hikaru Tanaka, Kazuaki Kuwahata, Masanori Tachikawa, Taro Udagawa,
      "Nuclear quantum effects on proton sharing in the deprotonated formic acid dimer anion revealed by path-integral molecular dynamics simulations",
      _Struct. Chem._, 1-10 (2026). DOI: [10.1007/s11224-026-02761-1](https://doi.org/10.1007/s11224-026-02761-1)
 
-300. Amba Datt Pant, Akihiro Koda, Burkhard Geil, Katsuhiko Ishida, Roshan Pudasaini, Kazuaki Kuwahata, Masanori Tachikawa, Stephen P. Cottrell, Jumpei G. Nakamura, Shoichiro Nishimura, Koichiro Shimomura,
-"Muon Species in Frozen D2O Observed with Zero-field Muon Spin Precession",
-J. Phys. Soc. Jpn., ***95***, (2026). DOI: [10.7566/JPSJ.95.014603](https://doi.org/10.7566/JPSJ.95.014603)
+300. Amba Datt Pant, Akihiro Koda, Burkhard Geil, Katsuhiko Ishida, Roshan Pudasaini, Kazuaki Kuwahata, Masanori Tachikawa,
+     Stephen P. Cottrell, Jumpei G. Nakamura, Shoichiro Nishimura, Koichiro Shimomura,
+     "Muon Species in Frozen D2O Observed with Zero-field Muon Spin Precession",
+     J. Phys. Soc. Jpn., ***95***, (2026). DOI: [10.7566/JPSJ.95.014603](https://doi.org/10.7566/JPSJ.95.014603)
 
 299. Kotomi Nishikawa, Hikaru Tanaka, Kazuaki Kuwahata, Masanori Tachikawa, and Taro Udagawa,
 "Microscopic origin of quantum plasticity in small H3+(H2)n (n = 1-3) clusters revealed by path integral molecular dynamics simulations",
